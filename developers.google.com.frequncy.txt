@@ -1,0 +1,658 @@
+true 4
+en 3
+en 3
+en 3
+en 3
+en 3
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+nbsp 2
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+bokmål 1
+(dp0
+S'bokm\xc3\xa5l'
+p1
+I1
+sS'Web'
+p2
+I1
+sS'Hrvatski'
+p3
+I1
+sS'Hide'
+p4
+I1
+sS'windowdevsite'
+p5
+I1
+sS'Mountain'
+p6
+I1
+sS'devsitetimingtickclGoogle'
+p7
+I1
+sS'nynorsk'
+p8
+I1
+sS'ProductsCareersTerms'
+p9
+I1
+sS'\xe6\x97\xa5\xe6\x9c\xac\xe8\xaa\x9e'
+p10
+I1
+sS'nbsp'
+p11
+I2
+sS'TechmakersGoogle'
+p12
+I1
+sS'GroupsGoogle'
+p13
+I1
+sS'Developers'
+p14
+I2
+sS'help'
+p15
+I1
+sS'devsite'
+p16
+I1
+sS'dataLayer'
+p17
+I1
+sS'\xd7\xa2\xd7\x91\xd7\xa8\xd7\x99\xd7\xaa'
+p18
+I1
+sS'documentreadyfunction'
+p19
+I1
+sS'Nederlands'
+p20
+I1
+sS'AndroidiOSWebSee'
+p21
+I1
+sS'2015'
+p22
+I1
+sS'Nov'
+p23
+I1
+sS'\xd0\xa3\xd0\xba\xd1\x80\xd0\xb0\xd1\x97\xd0\xbd\xd1\x81\xd1\x8c\xd0\xba\xd0\xb0'
+p24
+I1
+sS'resources'
+p25
+I1
+sS'watch'
+p26
+I1
+sS'setlang'
+p27
+I1
+sS'updates'
+p28
+I1
+sS'dansk'
+p29
+I1
+sS'fran\xc3\xa7ais'
+p30
+I1
+sS'Brasileiro'
+p31
+I1
+sS'target'
+p32
+I1
+sS'322340530e'
+p33
+I1
+sS'potentialAction'
+p34
+I1
+sS'False'
+p35
+I2
+sS'SearchAction'
+p36
+I1
+sS'Am\xc3\xa9rica'
+p37
+I1
+sS'windowdevsitesearchiniten'
+p38
+I1
+sS'windowdevsitesearch'
+p39
+I1
+sS'namesearchtermstring'
+p40
+I1
+sS'served'
+p41
+I1
+sS'ConnectBlogFacebookGoogleMediumTwitterYouTubeProgramsWomen'
+p42
+I1
+sS'Hindi'
+p43
+I1
+sS'jQuery'
+p44
+I1
+sS'Vi\xc3\xaa\xcc\xa3t'
+p45
+I1
+sS'en'
+p46
+I3
+sS'windowjQuery'
+p47
+I1
+sS'devsitedevsiteInit'
+p48
+I1
+sS'svenska'
+p49
+I1
+sS'internalUser'
+p50
+I1
+sS'gcfglang'
+p51
+I1
+sS'wtsrtfeticktbsdwtsrttrybnullwindowchromewindowchromecsibMathfloorwindowchromecsipageTe0'
+p52
+I1
+sS'More'
+p53
+I1
+sS'DashboardExploreAndroidiOSWebGamesAll'
+p54
+I1
+sS'selecteachfunction'
+p55
+I1
+sS'6749dcb526ce9bde6993550c7d928d24'
+p56
+I1
+sS'1718'
+p57
+I1
+sS'LaunchpadParticipate'
+p58
+I1
+sS'Explore'
+p59
+I1
+sS'GamesCommunitiesStartupsBlogVideosMOOCs'
+p60
+I1
+sS'\xd8\xa7\xd9\x84\xd8\xb9\xd8\xb1\xd8\xa8\xd9\x8a\xd9\x91\xd8\xa9'
+p61
+I1
+sS'setlangsubmit'
+p62
+I2
+sS'WebSite'
+p63
+I1
+sS'full'
+p64
+I1
+sS'business'
+p65
+I1
+sS'Indonesia'
+p66
+I1
+sS'English'
+p67
+I1
+sS'\xe7\xb9\x81\xe9\xab\x94\xe4\xb8\xad\xe6\x96\x87'
+p68
+I1
+sS'UX'
+p69
+I1
+sS'language'
+p70
+I1
+sS'Sign'
+p71
+I2
+sS'context'
+p72
+I1
+sS'ewindowjstimingload0detickwtsrtvoid'
+p73
+I1
+sS'action'
+p74
+I1
+sS'Developer'
+p75
+I3
+sS'norsk'
+p76
+I2
+sS'slovensk\xc3\xbd'
+p77
+I1
+sS'Privacy'
+p78
+I1
+sS'ConsolesGoogle'
+p79
+I1
+sS'app'
+p80
+I1
+sS'Magyar'
+p81
+I1
+sS'italiano'
+p82
+I1
+sS'ConsoleCast'
+p83
+I1
+sS'Portugu\xc3\xaas'
+p84
+I2
+sS'\xd9\x81\xd8\xa7\xd8\xb1\xd8\xb3\xdb\x8c'
+p85
+I1
+sS'Ti\xc3\xaa\xcc\x81ng'
+p86
+I1
+sS'miss'
+p87
+I1
+sS'your'
+p88
+I1
+sS'Store'
+p89
+I1
+sS'directoryChrome'
+p90
+I1
+sS'Play'
+p91
+I1
+sS'StudiesDeveloper'
+p92
+I1
+sS'live'
+p93
+I1
+sS'California'
+p94
+I1
+sS'var'
+p95
+I3
+sS'T\xc3\xbcrk\xc3\xa7e'
+p96
+I1
+sS'type'
+p97
+I2
+sS'Tune'
+p98
+I1
+sS'function'
+p99
+I3
+sS'Search'
+p100
+I1
+sS'ConsoleGoogle'
+p101
+I1
+sS'\xd0\xb1\xd1\x8a\xd0\xbb\xd0\xb3\xd0\xb0\xd1\x80\xd1\x81\xd0\xba\xd0\xb8'
+p102
+I1
+sS'\xc4\x8desky'
+p103
+I1
+sS'Bahasa'
+p104
+I1
+sS'projectName'
+p105
+I1
+sS'Dev'
+p106
+I1
+sS'Sloven\xc5\xa1\xc4\x8dina'
+p107
+I1
+sS'httpschemaorg'
+p108
+I1
+sS'Summit'
+p109
+I2
+sS'livestream'
+p110
+I1
+sS'devsitelocalInit'
+p111
+I1
+sS'thiskdSelectchange'
+p112
+I1
+sS'navigatoruserAgentmatchmsiei'
+p113
+I1
+sS'devsitetimingtickjl'
+p114
+I1
+sS'true'
+p115
+I4
+sS'Dont'
+p116
+I1
+sS'Deutsch'
+p117
+I1
+sS'suomi'
+p118
+I1
+sS'Espa\xc3\xb1ol'
+p119
+I1
+sS'up'
+p120
+I1
+sS'polski'
+p121
+I1
+sS'url'
+p122
+I1
+sS'\xed\x95\x9c\xea\xb5\xad\xec\x96\xb4'
+p123
+I1
+sS'catal\xc3\xa0'
+p124
+I1
+sS'awindowdevsitewindowdevsiteaareadyCallbackswindowdevsitereadyCallbacksareadyCallbacksareadyfunctioncareadyCallbackspushcwindowdevsitereadyareadyatimingwindowdevsiteawindowdevsitetimingatimingatimingtimersatimingtickfunctioncbgforvar'
+p125
+I1
+sS'false'
+p126
+I2
+sS'Chrome'
+p127
+I1
+sS'\xd1\x81\xd1\x80\xd0\xbf\xd1\x81\xd0\xba\xd0\xb8'
+p128
+I1
+sS'gcfg'
+p129
+I2
+sS'\xd0\xa0\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9'
+p130
+I1
+sS'null'
+p131
+I3
+sS'develop'
+p132
+I1
+sS'httpsdevelopersgooglecomsresultsqsearchtermstring'
+p133
+I1
+sS'queryinput'
+p134
+I1
+sS'993b1906435224595bd618f6f331ee45'
+p135
+I1
+sS'you'
+p136
+I1
+sS'out'
+p137
+I1
+sS'\xce\x95\xce\xbb\xce\xbb\xce\xb7\xce\xbd\xce\xb9\xce\xba\xce\xac'
+p138
+I1
+sS'\xe7\xae\x80\xe4\xbd\x93\xe4\xb8\xad\xe6\x96\x87'
+p139
+I1
+sS'requested'
+p140
+I1
+sS'product'
+p141
+I1
+sS'Latina'
+p142
+I1
+sS'espa\xc3\xb1ol'
+p143
+I1
+sS'httpshttpsdevelopersgooglecom'
+p144
+I1
+sS'Rom\xc3\xa2n\xc4\x83'
+p145
+I1
+sS'\xe0\xb8\xa0\xe0\xb8\xb2\xe0\xb8\xa9\xe0\xb8\xb2\xe0\xb9\x84\xe0\xb8\x97\xe0\xb8\xa2'
+p146
+I1
+sS'services'
+p147
+I1
+sS'else'
+p148
+I1
+sS'grow'
+p149
+I1
+sS'View'
+p150
+I1
+sS'latvie\xc5\xa1u'
+p151
+I1
+sS'Google'
+p152
+I1
+sS'ExpertsStartup'
+p153
+I1
+sS'thischangefunction'
+p154
+I1
+sS'mobile'
+p155
+I1
+sS'required'
+p156
+I1
+sS'098dafe57affddc137df300142652cfd'
+p157
+I1
+sS'd0ddwindowjstimingsrtfdifbvar'
+p158
+I1
+sS'signedIn'
+p159
+I1
+sS'ConsoleChrome'
+p160
+I1
+sS'0detickwtsrt'
+p161
+I1
+sS'Lietuvi\xc5\xa1kai'
+p162
+I1
+sS'Tools'
+p163
+I1
+sS'SDK'
+p164
+I1
+s.

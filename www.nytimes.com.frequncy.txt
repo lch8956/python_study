@@ -1,0 +1,6539 @@
+h6 44
+nythpCookingHeader 37
+raquo 34
+raquo 34
+none 27
+0 25
+0 25
+bcolumn 21
+Paris 19
+fontfamily 16
+fontfamily 16
+1 15
+1 15
+fontweight 14
+fontweight 14
+fontweight 14
+Times 13
+Times 13
+Times 13
+nythpElection2016Header 12
+nythpElection2016Header 12
+nythpElection2016Header 12
+nythpElection2016Header 12
+nythpElection2016Header 12
+nythpElection2016Header 12
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+ISIS 11
+A 10
+A 10
+A 10
+A 10
+A 10
+A 10
+A 10
+A 10
+ltie10 9
+ltie10 9
+ltie10 9
+ltie10 9
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+new 8
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+texttransform 7
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+aactive 6
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+6px 5
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+Go 4
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+NYT 3
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+h4sectionHeaderHome 2
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+0833 1
+(dp0
+S'6px'
+p1
+I5
+sS'NYT'
+p2
+I3
+sS'0833'
+p3
+I1
+sS'NYC'
+p4
+I3
+sS'ERIC'
+p5
+I1
+sS'React'
+p6
+I1
+sS'pageManagertrackingFireEventQueue'
+p7
+I1
+sS'Watch'
+p8
+I1
+sS'urlhttpcssnytcomimagesiconsbullet4x4gif'
+p9
+I1
+sS'Nytimescom'
+p10
+I1
+sS'Western'
+p11
+I1
+sS'under'
+p12
+I1
+sS'Cases'
+p13
+I1
+sS'h4sectionHeaderHome'
+p14
+I2
+sS'h3containsThe'
+p15
+I1
+sS'BYU'
+p16
+I1
+sS'envar'
+p17
+I1
+sS'AttacksNYT'
+p18
+I1
+sS'Concert'
+p19
+I1
+sS'tickets'
+p20
+I1
+sS'nrrequireforvar'
+p21
+I1
+sS'Heightens'
+p22
+I1
+sS'FRANCE'
+p23
+I1
+sS'abovebannerregion'
+p24
+I1
+sS'fontweight'
+p25
+I14
+sS'Go'
+p26
+I4
+sS'0052'
+p27
+I1
+sS'0051'
+p28
+I1
+sS'Accent'
+p29
+I1
+sS'Version'
+p30
+I1
+sS'END'
+p31
+I1
+sS'Available'
+p32
+I1
+sS'fivebedroom'
+p33
+I1
+sS'16px18px'
+p34
+I1
+sS'Hamilton'
+p35
+I1
+sS'new'
+p36
+I8
+sS'evolving'
+p37
+I1
+sS'PARIS'
+p38
+I1
+sS'Adjusts'
+p39
+I1
+sS'wrapping'
+p40
+I1
+sS'kicker'
+p41
+I4
+sS'path'
+p42
+I1
+sS'100'
+p43
+I1
+sS'200px'
+p44
+I1
+sS'135rem'
+p45
+I1
+sS'credit'
+p46
+I2
+sS'Market'
+p47
+I2
+sS'military'
+p48
+I1
+sS'Group'
+p49
+I1
+sS'sansserif'
+p50
+I4
+sS'campaign'
+p51
+I1
+sS'Privacy'
+p52
+I1
+sS'Support'
+p53
+I1
+sS'Three'
+p54
+I3
+sS'Eyes\xe2\x80\x99'
+p55
+I1
+sS'Book'
+p56
+I1
+sS'Health'
+p57
+I5
+sS'Meet'
+p58
+I2
+sS'Dispute'
+p59
+I2
+sS'acolumn'
+p60
+I4
+sS'would'
+p61
+I1
+sS'passport'
+p62
+I1
+sS'Bookshelf'
+p63
+I1
+sS'foundationlegacymain'
+p64
+I1
+sS'Tip'
+p65
+I1
+sS'Rule'
+p66
+I1
+sS'O\xe2\x80\x99Malley'
+p67
+I1
+sS'nythpParisMegaBanner'
+p68
+I1
+sS'92'
+p69
+I1
+sS'97'
+p70
+I1
+sS'must'
+p71
+I1
+sS'348'
+p72
+I1
+sS'avisited'
+p73
+I3
+sS'Steely'
+p74
+I1
+sS'Header'
+p75
+I1
+sS'nythpTGLeft'
+p76
+I1
+sS'Advertisers'
+p77
+I1
+sS'A81817'
+p78
+I2
+sS'h2storyheading'
+p79
+I1
+sS'Poem'
+p80
+I1
+sS'555'
+p81
+I1
+sS'554'
+p82
+I1
+sS'LEARN'
+p83
+I1
+sS'DAVID'
+p84
+I1
+sS'Brian'
+p85
+I1
+sS'Bruni'
+p86
+I4
+sS'Digital'
+p87
+I3
+sS'realEstateSearch'
+p88
+I1
+sS'end'
+p89
+I1
+sS'\xe2\x80\x98Letters'
+p90
+I1
+sS'Killing'
+p91
+I3
+sS'how'
+p92
+I2
+sS'nytfranklinArialsansserif'
+p93
+I1
+sS'SixTerm'
+p94
+I1
+sS'Weekend'
+p95
+I2
+sS'A'
+p96
+I10
+sS'earlier'
+p97
+I1
+sS'Will'
+p98
+I1
+sS'Players'
+p99
+I1
+sS'president'
+p100
+I1
+sS'law'
+p101
+I1
+sS'texttransform'
+p102
+I7
+sS'purchase'
+p103
+I1
+sS'All'
+p104
+I3
+sS'Lloyd'
+p105
+I1
+sS'Resigning'
+p106
+I1
+sS'Sexual'
+p107
+I2
+sS'\xe2\x80\x98By'
+p108
+I1
+sS'over'
+p109
+I1
+sS'Toll'
+p110
+I1
+sS'\xe2\x80\x98Men'
+p111
+I1
+sS'before'
+p112
+I1
+sS'KATRIN'
+p113
+I1
+sS'His'
+p114
+I2
+sS'400'
+p115
+I4
+sS'videoFactory'
+p116
+I1
+sS'hidden'
+p117
+I2
+sS'Him'
+p118
+I1
+sS'them'
+p119
+I1
+sS'Mobile'
+p120
+I2
+sS'tentifrcallenreturn'
+p121
+I1
+sS'Depiction'
+p122
+I2
+sS'Check'
+p123
+I1
+sS'\xe2\x80\x98American'
+p124
+I1
+sS'13px'
+p125
+I3
+sS'Douthat'
+p126
+I1
+sS'Styles'
+p127
+I2
+sS'BEGIN'
+p128
+I1
+sS'Wary'
+p129
+I1
+sS'content'
+p130
+I1
+sS'authgrowl'
+p131
+I1
+sS'foundation'
+p132
+I1
+sS'Cuban'
+p133
+I2
+sS'Join'
+p134
+I1
+sS'nythpElection2016Header'
+p135
+I12
+sS'Work'
+p136
+I1
+sS'Metal'
+p137
+I1
+sS'free'
+p138
+I1
+sS'standard'
+p139
+I1
+sS'struggle'
+p140
+I1
+sS'Clinton'
+p141
+I5
+sS'Contributors'
+p142
+I1
+sS'002'
+p143
+I1
+sS'Photo'
+p144
+I1
+sS'nythpParisMega1stCol'
+p145
+I1
+sS'0667'
+p146
+I1
+sS'Universities'
+p147
+I1
+sS'windowmagnumwriteLogosmall'
+p148
+I1
+sS'Please'
+p149
+I2
+sS'storythemefeaturepromo'
+p150
+I3
+sS'Going'
+p151
+I1
+sS'Tests'
+p152
+I1
+sS'googletaggoogletaggoogletagcmdgoogletagcmdfunctionvar'
+p153
+I1
+sS'top'
+p154
+I3
+sS'Volkswagen'
+p155
+I1
+sS'0066'
+p156
+I1
+sS'0067'
+p157
+I1
+sS'0064'
+p158
+I1
+sS'rates'
+p159
+I1
+sS'0063'
+p160
+I1
+sS'0061'
+p161
+I1
+sS'0069'
+p162
+I1
+sS'Search'
+p163
+I4
+sS'B'
+p164
+I3
+sS'staticPath'
+p165
+I2
+sS'TearStreaked'
+p166
+I1
+sS'Neediest'
+p167
+I1
+sS'Set'
+p168
+I1
+sS'ireturnnew'
+p169
+I1
+sS'Cyber'
+p170
+I1
+sS'Sex'
+p171
+I1
+sS'oet1nreturn'
+p172
+I1
+sS'httpstatic01nytcomvideovhsbuildvhs2xmin'
+p173
+I1
+sS'Adele'
+p174
+I1
+sS'Sea'
+p175
+I1
+sS'realestate'
+p176
+I1
+sS'messagebed'
+p177
+I1
+sS'E2E2E2'
+p178
+I1
+sS'raw'
+p179
+I1
+sS'tevar'
+p180
+I1
+sS'rap'
+p181
+I1
+sS'Transgender'
+p182
+I1
+sS'Band'
+p183
+I1
+sS'They'
+p184
+I1
+sS'Ask'
+p185
+I1
+sS'Reports'
+p186
+I1
+sS'Alabama'
+p187
+I3
+sS'aenfececoncatnfunction'
+p188
+I1
+sS'Bernie'
+p189
+I1
+sS'Exploitation'
+p190
+I3
+sS'flow'
+p191
+I1
+sS'Scene'
+p192
+I1
+sS'Single'
+p193
+I1
+sS'Election'
+p194
+I2
+sS'dataoptionseventid7600eventslugparisattacksliveupdatesheaderLATEST'
+p195
+I1
+sS'Sea\xe2\x80\x99'
+p196
+I1
+sS'Its'
+p197
+I1
+sS'came'
+p198
+I1
+sS'bomb'
+p199
+I1
+sS'Helvetica'
+p200
+I1
+sS'Anne'
+p201
+I1
+sS'nythpHideKickers'
+p202
+I1
+sS'headline'
+p203
+I1
+sS'Stravinsky'
+p204
+I1
+sS'Republicans'
+p205
+I1
+sS'11115'
+p206
+I1
+sS'Free'
+p207
+I2
+sS'Aspirations'
+p208
+I1
+sS'adequate'
+p209
+I1
+sS'do'
+p210
+I2
+sS'Account'
+p211
+I2
+sS'Turns'
+p212
+I1
+sS'minlimit4maxlimit11'
+p213
+I1
+sS'Leave'
+p214
+I1
+sS'15'
+p215
+I1
+sS'countries'
+p216
+I1
+sS'Over'
+p217
+I2
+sS'respond'
+p218
+I1
+sS'decides'
+p219
+I1
+sS'textdecoration'
+p220
+I5
+sS'widget'
+p221
+I2
+sS'Rivals'
+p222
+I3
+sS'result'
+p223
+I1
+sS'said'
+p224
+I2
+sS'05'
+p225
+I5
+sS'nythpCookingHeader'
+p226
+I37
+sS'Rise'
+p227
+I1
+sS'actionlink'
+p228
+I1
+sS'Water'
+p229
+I2
+sS'nythpSplitCode'
+p230
+I12
+sS'aactive'
+p231
+I6
+sS'Settings'
+p232
+I1
+sS'Borrowing'
+p233
+I1
+sS'paddingtop'
+p234
+I4
+sS'OpEd'
+p235
+I3
+sS'providing'
+p236
+I1
+sS'Dance'
+p237
+I1
+sS'Focus'
+p238
+I1
+sS'planned'
+p239
+I1
+sS'faces'
+p240
+I1
+sS'Dawn'
+p241
+I1
+sS'Classifieds'
+p242
+I1
+sS'Syrian'
+p243
+I1
+sS'height'
+p244
+I5
+sS'articledatacollectionrenderstyleLedeSumstorythemesummary'
+p245
+I1
+sS'Ireland'
+p246
+I1
+sS'trust'
+p247
+I1
+sS'nythpBreakingnythpNoRule'
+p248
+I1
+sS'Gives'
+p249
+I1
+sS'wideB'
+p250
+I2
+sS'wideA'
+p251
+I2
+sS'three'
+p252
+I2
+sS'Cheaper'
+p253
+I1
+sS'Hillary'
+p254
+I4
+sS'stadium'
+p255
+I1
+sS'Ajhar'
+p256
+I1
+sS'Georgia'
+p257
+I1
+sS'families'
+p258
+I1
+sS'Night'
+p259
+I1
+sS'Bites'
+p260
+I1
+sS'Upper'
+p261
+I1
+sS'Manage'
+p262
+I1
+sS'information'
+p263
+I1
+sS'near'
+p264
+I1
+sS'Accused'
+p265
+I3
+sS'Menu'
+p266
+I1
+sS'sticker'
+p267
+I1
+sS'Vacation'
+p268
+I1
+sS'Candidates'
+p269
+I2
+sS'Last'
+p270
+I2
+sS'Tell'
+p271
+I1
+sS'Socially'
+p272
+I1
+sS'President'
+p273
+I1
+sS'BREEDEN'
+p274
+I1
+sS'Room'
+p275
+I1
+sS'Poet\xe2\x80\x99s'
+p276
+I1
+sS'h6active'
+p277
+I4
+sS'hand'
+p278
+I1
+sS'Home'
+p279
+I5
+sS'Bridge\xe2\x80\x99'
+p280
+I1
+sS'Patron'
+p281
+I1
+sS'spanablayout'
+p282
+I2
+sS'Table'
+p283
+I2
+sS'left'
+p284
+I7
+sS'spurred'
+p285
+I1
+sS'pocketRegion'
+p286
+I4
+sS'Pinkel'
+p287
+I1
+sS'paddingright'
+p288
+I1
+sS'previous'
+p289
+I2
+sS'tentreturn'
+p290
+I1
+sS'News'
+p291
+I5
+sS'3px'
+p292
+I5
+sS'D'
+p293
+I1
+sS'Restaurant'
+p294
+I1
+sS'James'
+p295
+I1
+sS'Taking'
+p296
+I1
+sS'siteindexbrandinglink'
+p297
+I1
+sS'Roberts'
+p298
+I1
+sS'objective'
+p299
+I1
+sS'oamarkdomContentifunction'
+p300
+I1
+sS'background'
+p301
+I10
+sS'Missouri'
+p302
+I3
+sS'unique'
+p303
+I1
+sS'mediaphotomediumthumb'
+p304
+I4
+sS'dreams'
+p305
+I1
+sS'Wine'
+p306
+I1
+sS'Art'
+p307
+I2
+sS'Newsletters'
+p308
+I1
+sS'MILAN'
+p309
+I1
+sS'21px'
+p310
+I5
+sS'Are'
+p311
+I4
+sS'night'
+p312
+I1
+sS'anythpBriefingNewsletterSignup'
+p313
+I1
+sS'Species'
+p314
+I1
+sS'Witness'
+p315
+I1
+sS'sectionopinion'
+p316
+I2
+sS'right'
+p317
+I2
+sS'Articles'
+p318
+I2
+sS'Conservation'
+p319
+I2
+sS'PaperVideo'
+p320
+I1
+sS'Poker'
+p321
+I1
+sS'bottom'
+p322
+I1
+sS'h3containsHoliday'
+p323
+I1
+sS'Getting'
+p324
+I3
+sS'dataoptionswidth190height126jsonphttpjson8nytimescomslideshow20151115uspoliticsdemocraticcandidatesdebateslideshowjsonplinkhttpwwwnytimescom20151115uspoliticsdemocraticdebatecbshtmlphotosphotourlcreditadvanceddelay3limitjsonp0renditionmediumFlexible177targetoverrideabbreviatecreditstrue'
+p325
+I1
+sS'backgroundposition'
+p326
+I2
+sS'Gifts'
+p327
+I1
+sS'everything'
+p328
+I2
+sS'Facebook'
+p329
+I1
+sS'Blogs'
+p330
+I1
+sS'He'
+p331
+I1
+sS'bold'
+p332
+I1
+sS'Place'
+p333
+I1
+sS'AURELIEN'
+p334
+I1
+sS'0px'
+p335
+I14
+sS'Think'
+p336
+I1
+sS'First'
+p337
+I2
+sS'ltie10'
+p338
+I9
+sS'attacks'
+p339
+I3
+sS'Dyson'
+p340
+I1
+sS'Valentine'
+p341
+I1
+sS'undocumented'
+p342
+I1
+sS'dinner'
+p343
+I1
+sS'GALANES'
+p344
+I1
+sS'Make'
+p345
+I7
+sS'float'
+p346
+I7
+sS'Insider'
+p347
+I3
+sS'Draft'
+p348
+I1
+sS'raises'
+p349
+I1
+sS'Survive'
+p350
+I2
+sS'MICHELLE'
+p351
+I1
+sS'Extended'
+p352
+I2
+sS'ISIS'
+p353
+I11
+sS'Illustration'
+p354
+I1
+sS'width'
+p355
+I4
+sS'Column'
+p356
+I3
+sS'Roast'
+p357
+I1
+sS'Defeat'
+p358
+I3
+sS'true'
+p359
+I1
+sS'Interactive'
+p360
+I1
+sS'portions'
+p361
+I1
+sS'tell'
+p362
+I1
+sS'County'
+p363
+I1
+sS'themenewsheadlinesnythpMiniThumbs'
+p364
+I1
+sS'Much'
+p365
+I1
+sS'tnvar'
+p366
+I1
+sS'20px'
+p367
+I5
+sS'passenger'
+p368
+I1
+sS'Crust'
+p369
+I1
+sS'libefore'
+p370
+I2
+sS'Squares'
+p371
+I1
+sS'ROBERT'
+p372
+I1
+sS'when'
+p373
+I2
+sS'Possible'
+p374
+I2
+sS'14px'
+p375
+I3
+sS'digital'
+p376
+I1
+sS'Pages'
+p377
+I1
+sS'Shift'
+p378
+I4
+sS'GuiltFree'
+p379
+I1
+sS'Hunt'
+p380
+I1
+sS'backgroundsize'
+p381
+I1
+sS'urlhttpgraphics8nytimescompackagesimageshomepagethanksgiving2015thanksgivingrulepng'
+p382
+I1
+sS'Estate'
+p383
+I4
+sS'Win'
+p384
+I1
+sS'Driverless'
+p385
+I1
+sS'Second'
+p386
+I2
+sS'Wit'
+p387
+I1
+sS'Familiar'
+p388
+I2
+sS'Roger'
+p389
+I3
+sS'Cadillac\xe2\x80\x99s'
+p390
+I1
+sS'creative'
+p391
+I1
+sS'editors'
+p392
+I1
+sS'0'
+p393
+I25
+sS'\xe2\x80\x98Did'
+p394
+I1
+sS'Day'
+p395
+I5
+sS'Rousey'
+p396
+I1
+sS'Tech'
+p397
+I3
+sS'Where'
+p398
+I1
+sS'Jersey'
+p399
+I1
+sS'ahover'
+p400
+I6
+sS'tablerow'
+p401
+I1
+sS'Global'
+p402
+I1
+sS'Tax'
+p403
+I2
+sS'div'
+p404
+I2
+sS'Debate'
+p405
+I5
+sS'Slowly'
+p406
+I1
+sS'Finding'
+p407
+I1
+sS'a81817'
+p408
+I1
+sS'bake'
+p409
+I1
+sS'Professors'
+p410
+I2
+sS'inlineblock'
+p411
+I7
+sS'Subscriptions'
+p412
+I5
+sS'Bruce'
+p413
+I1
+sS'Public'
+p414
+I2
+sS'shared'
+p415
+I1
+sS'Along'
+p416
+I1
+sS'explosion'
+p417
+I1
+sS'groups'
+p418
+I1
+sS'Mr'
+p419
+I1
+sS'margintop'
+p420
+I7
+sS'Times'
+p421
+I13
+sS'My'
+p422
+I3
+sS'topnews'
+p423
+I5
+sS'MM'
+p424
+I1
+sS'BAB8B3'
+p425
+I1
+sS'Your'
+p426
+I4
+sS'User'
+p427
+I1
+sS'navigation'
+p428
+I2
+sS'emerge'
+p429
+I1
+sS'When'
+p430
+I1
+sS'Enough'
+p431
+I4
+sS'nythpTGRight'
+p432
+I2
+sS'0875'
+p433
+I1
+sS'nrrequirereturn'
+p434
+I1
+sS'Sanders'
+p435
+I1
+sS'Lanes'
+p436
+I1
+sS'Dies'
+p437
+I3
+sS'Deaton'
+p438
+I1
+sS'helvetica'
+p439
+I3
+sS'only'
+p440
+I1
+sS'properties'
+p441
+I2
+sS'Fell'
+p442
+I1
+sS'October'
+p443
+I1
+sS'Mom'
+p444
+I1
+sS'downing'
+p445
+I1
+sS'FD8249'
+p446
+I2
+sS'Horror'
+p447
+I2
+sS'migrants'
+p448
+I1
+sS'timesvideo'
+p449
+I1
+sS'alinknythpBriefingNewsletterSignup'
+p450
+I1
+sS'cap'
+p451
+I1
+sS'Pacific'
+p452
+I1
+sS'commentspanel'
+p453
+I1
+sS'urlhttpgraphics8nytimescompackagesimageshomepagebriefingsdogearsmpng'
+p454
+I1
+sS'Our'
+p455
+I3
+sS'Out'
+p456
+I3
+sS'Media'
+p457
+I2
+sS'Drivers'
+p458
+I1
+sS'\xe2\x80\x98Secret'
+p459
+I1
+sS'1980s'
+p460
+I1
+sS'ureturn'
+p461
+I1
+sS'Issue'
+p462
+I1
+sS'editiondomestic'
+p463
+I1
+sS'Terms'
+p464
+I2
+sS'Ginsburg'
+p465
+I3
+sS'1'
+p466
+I15
+sS'Why'
+p467
+I1
+sS'PMNYT'
+p468
+I1
+sS'may'
+p469
+I1
+sS'ANDREW'
+p470
+I1
+sS'alerticon'
+p471
+I1
+sS'applications'
+p472
+I11
+sS'shuffleRecommendations'
+p473
+I1
+sS'Editorials'
+p474
+I1
+sS'Corporate'
+p475
+I2
+sS'View'
+p476
+I3
+sS'Series'
+p477
+I2
+sS'truck'
+p478
+I1
+sS'Bader'
+p479
+I2
+sS'httpstatic01nytcomjs2buildvideoplayersextended20appRequire'
+p480
+I1
+sS'Breaking'
+p481
+I2
+sS'nbsp'
+p482
+I1
+sS'police'
+p483
+I1
+sS'Cruz\xe2\x80\x99s'
+p484
+I3
+sS'window'
+p485
+I1
+sS'\xe2\x80\x98Sanctuary'
+p486
+I1
+sS'policy'
+p487
+I1
+sS'Using'
+p488
+I1
+sS'Hiding'
+p489
+I1
+sS'Choices'
+p490
+I1
+sS'odocumentgetElementsByTagNamescript0oparentNodeinsertBeforeto'
+p491
+I1
+sS'now'
+p492
+I1
+sS'discuss'
+p493
+I1
+sS'name'
+p494
+I1
+sS'Few'
+p495
+I2
+sS'opera'
+p496
+I1
+sS'Skip'
+p497
+I2
+sS'Heels'
+p498
+I1
+sS'thttpsssplit0esslForHttpdprotothttpshttpamarkonloadivar'
+p499
+I1
+sS'em'
+p500
+I1
+sS'Move'
+p501
+I1
+sS'paddingleft'
+p502
+I4
+sS'candidates\xe2\x80\x99'
+p503
+I1
+sS'ALISSA'
+p504
+I1
+sS'Split'
+p505
+I1
+sS'Routine'
+p506
+I1
+sS'Save'
+p507
+I3
+sS'Carolina'
+p508
+I2
+sS'Roper'
+p509
+I1
+sS'themenewsheadlines'
+p510
+I2
+sS'liveupdatesflextypepromo'
+p511
+I1
+sS'Joy'
+p512
+I1
+sS'emerged'
+p513
+I1
+sS'Tragedy'
+p514
+I1
+sS'avisitednythpBriefingNewsletterSignup'
+p515
+I1
+sS'50px'
+p516
+I2
+sS'Theater'
+p517
+I3
+sS'Rights'
+p518
+I1
+sS'siege'
+p519
+I1
+sS'Deductibles'
+p520
+I2
+sS'Security'
+p521
+I1
+sS'Options'
+p522
+I1
+sS'httpstatic01nytcomjsmtr'
+p523
+I1
+sS'toi0foro'
+p524
+I1
+sS'flexData'
+p525
+I2
+sS'Suicide'
+p526
+I1
+sS'revenue'
+p527
+I1
+sS'Asia'
+p528
+I1
+sS'one'
+p529
+I2
+sS'Attackers'
+p530
+I1
+sS'Rates'
+p531
+I1
+sS'Hollywood'
+p532
+I2
+sS'city'
+p533
+I1
+sS'Gains'
+p534
+I1
+sS'Kristof'
+p535
+I1
+sS'nythpGiftguide'
+p536
+I8
+sS'tragic'
+p537
+I1
+sS'Response'
+p538
+I2
+sS'bloodshed'
+p539
+I1
+sS'Neck'
+p540
+I1
+sS'rehandleoe1ie2undefinedtypeof'
+p541
+I1
+sS'ObjectdefinePropertyenvalueowritable0enumerable1ocatchireturn'
+p542
+I1
+sS'padding'
+p543
+I12
+sS'bColumn'
+p544
+I2
+sS'textindent'
+p545
+I1
+sS'Knocked'
+p546
+I1
+sS'copy'
+p547
+I1
+sS'10'
+p548
+I5
+sS'Love'
+p549
+I2
+sS'16'
+p550
+I1
+sS'require'
+p551
+I3
+sS'were'
+p552
+I1
+sS'Advertise'
+p553
+I1
+sS'Chance\xe2\x80\x99'
+p554
+I1
+sS'browser'
+p555
+I1
+sS'165rem'
+p556
+I1
+sS'America\xe2\x80\x99'
+p557
+I1
+sS'Do'
+p558
+I2
+sS'storythemesummary'
+p559
+I3
+sS'Women\xe2\x80\x99s'
+p560
+I1
+sS'Famous'
+p561
+I1
+sS'take'
+p562
+I1
+sS'DategetTimevar'
+p563
+I1
+sS'15px'
+p564
+I2
+sS'Hall'
+p565
+I1
+sS'Worldwide'
+p566
+I1
+sS'sure'
+p567
+I1
+sS'normal'
+p568
+I2
+sS'TV'
+p569
+I1
+sS'\xe2\x80\x98Into'
+p570
+I1
+sS'remarks'
+p571
+I1
+sS'LIAM'
+p572
+I1
+sS'Lands'
+p573
+I3
+sS'raquo'
+p574
+I34
+sS'tteelength0forvar'
+p575
+I1
+sS'Strip'
+p576
+I1
+sS'spanABTopRegion'
+p577
+I2
+sS'\xe2\x80\x98Attack'
+p578
+I1
+sS'Role'
+p579
+I2
+sS'Smile'
+p580
+I1
+sS'40px'
+p581
+I1
+sS'We'
+p582
+I1
+sS'upgrade'
+p583
+I1
+sS'WAR\xe2\x80\x99'
+p584
+I1
+sS'05625rem'
+p585
+I1
+sS'075rem'
+p586
+I1
+sS'Diary'
+p587
+I1
+sS'Solar'
+p588
+I1
+sS'Services'
+p589
+I1
+sS'blinds'
+p590
+I1
+sS'Carnage'
+p591
+I1
+sS'centrally'
+p592
+I1
+sS'get'
+p593
+I2
+sS'Louis'
+p594
+I1
+sS'Magazine'
+p595
+I7
+sS'Muscle'
+p596
+I1
+sS'Having'
+p597
+I1
+sS'nytcheltenhamshgeorgiatimes'
+p598
+I3
+sS'summary'
+p599
+I3
+sS'jokes'
+p600
+I1
+sS'Anger'
+p601
+I1
+sS'Education'
+p602
+I4
+sS'concert'
+p603
+I1
+sS'tallWatchingModule'
+p604
+I1
+sS'BENNHOLD'
+p605
+I1
+sS'relative'
+p606
+I1
+sS'arialhelveticasansserif'
+p607
+I1
+sS'romantimesserif'
+p608
+I7
+sS'nytkarnakdisplay130124'
+p609
+I2
+sS'Ansari'
+p610
+I2
+sS'3'
+p611
+I2
+sS'letterspacing'
+p612
+I3
+sS'editioninternational'
+p613
+I1
+sS'requirehttpstatic01nytcombijstagxtagxjs'
+p614
+I1
+sS'FOR'
+p615
+I1
+sS'tablecell'
+p616
+I1
+sS'arial'
+p617
+I3
+sS'weren\xe2\x80\x99t'
+p618
+I1
+sS'Give'
+p619
+I1
+sS'many'
+p620
+I1
+sS'Escape'
+p621
+I1
+sS'among'
+p622
+I1
+sS'Death'
+p623
+I2
+sS'nytcheltenhamgeorgiatimes'
+p624
+I3
+sS'color'
+p625
+I12
+sS'Travel'
+p626
+I4
+sS'IBM\xe2\x80\x99s'
+p627
+I3
+sS'Note'
+p628
+I1
+sS'nythpBriefings'
+p629
+I2
+sS'article'
+p630
+I7
+sS'storyheading'
+p631
+I4
+sS'Events'
+p632
+I3
+sS'177px'
+p633
+I1
+sS'turkey'
+p634
+I1
+sS'Urge'
+p635
+I2
+sS'Pain'
+p636
+I1
+sS'homepage20151113101625jshomepage'
+p637
+I2
+sS'But'
+p638
+I1
+sS'47px'
+p639
+I1
+sS'skyhigh'
+p640
+I1
+sS'Promos'
+p641
+I1
+sS'Known'
+p642
+I1
+sS'Bittman'
+p643
+I2
+sS'500'
+p644
+I1
+sS'ercalleotinoeoi1return'
+p645
+I1
+sS'639'
+p646
+I1
+sS'Terror'
+p647
+I8
+sS'MARTIN'
+p648
+I1
+sS'Points'
+p649
+I1
+sS'Path'
+p650
+I1
+sS'WAS'
+p651
+I1
+sS'Round'
+p652
+I1
+sS'Divide'
+p653
+I1
+sS'UFC'
+p654
+I1
+sS'margin'
+p655
+I4
+sS'Tennis'
+p656
+I2
+sS'TEAMS'
+p657
+I1
+sS'RUBIN'
+p658
+I1
+sS'Useless'
+p659
+I2
+sS'Bar'
+p660
+I1
+sS'Saks'
+p661
+I1
+sS'Merchandising'
+p662
+I1
+sS'threatens'
+p663
+I1
+sS'JONATHAN'
+p664
+I1
+sS'NYTDNYTD'
+p665
+I2
+sS'events'
+p666
+I1
+sS'Live\xe2\x80\x99'
+p667
+I1
+sS'HYPERLINK'
+p668
+I1
+sS'I'
+p669
+I2
+sS'Clear'
+p670
+I1
+sS'collectionfirstchild'
+p671
+I2
+sS'allocation'
+p672
+I11
+sS'Says'
+p673
+I1
+sS'Is'
+p674
+I6
+sS'2015Today\xe2\x80\x99s'
+p675
+I1
+sS'It'
+p676
+I1
+sS'\xe2\x80\x98ACT'
+p677
+I1
+sS'without'
+p678
+I1
+sS'Rent'
+p679
+I1
+sS'In'
+p680
+I5
+sS'ccc'
+p681
+I3
+sS'Loading'
+p682
+I2
+sS'Service'
+p683
+I1
+sS'displaynone'
+p684
+I3
+sS'captures'
+p685
+I1
+sS'rest'
+p686
+I1
+sS'imagefirstchild'
+p687
+I1
+sS'coloredSharetools'
+p688
+I1
+sS'captured'
+p689
+I1
+sS'Log'
+p690
+I1
+sS'Jobs'
+p691
+I1
+sS'Spot'
+p692
+I1
+sS'Applications'
+p693
+I1
+sS'ccolumn'
+p694
+I6
+sS'NEIL'
+p695
+I1
+sS'Many'
+p696
+I2
+sS'traffic'
+p697
+I1
+sS'nytfranklin'
+p698
+I4
+sS'Pie'
+p699
+I1
+sS'Hacks'
+p700
+I1
+sS'Raises'
+p701
+I2
+sS'Gunmen'
+p702
+I1
+sS'\xe4\xb8\xad\xe6\x96\x87'
+p703
+I1
+sS'\xe2\x80\x98A'
+p704
+I1
+sS'windowlocationsearchindexOfdisabletagx'
+p705
+I1
+sS'uppercase'
+p706
+I7
+sS'ereturneobjectnfunctionn1ewindow0ieofunctionreturn'
+p707
+I1
+sS'Mark'
+p708
+I2
+sS'Clinton\xe2\x80\x99s'
+p709
+I2
+sS'Mars'
+p710
+I1
+sS'id'
+p711
+I4
+sS'International'
+p712
+I2
+sS'pinnedMasthead'
+p713
+I1
+sS'Men'
+p714
+I1
+sS'recorded'
+p715
+I1
+sS'Reads'
+p716
+I1
+sS'timetimestamp'
+p717
+I1
+sS'ontexportset0calloexportsfunctionnvar'
+p718
+I1
+sS'Nabokov'
+p719
+I2
+sS'refer'
+p720
+I3
+sS'Cellphone'
+p721
+I1
+sS'AM'
+p722
+I3
+sS'Expanded'
+p723
+I1
+sS'slaughter'
+p724
+I1
+sS'Technophoria'
+p725
+I2
+sS'Vietnam'
+p726
+I2
+sS'Druckerman'
+p727
+I1
+sS'Revolution'
+p728
+I3
+sS'Beauty'
+p729
+I1
+sS'violence'
+p730
+I1
+sS'Paper'
+p731
+I1
+sS'Wintry'
+p732
+I1
+sS'Story'
+p733
+I3
+sS'image'
+p734
+I1
+sS'Least'
+p735
+I1
+sS'baseUrl'
+p736
+I1
+sS'Acting'
+p737
+I2
+sS'your'
+p738
+I2
+sS'Store'
+p739
+I1
+sS'Week'
+p740
+I1
+sS'NJ'
+p741
+I1
+sS'paidPostDriver'
+p742
+I1
+sS'prepare'
+p743
+I1
+sS'hed'
+p744
+I1
+sS'NY'
+p745
+I4
+sS'italic'
+p746
+I1
+sS'Obama'
+p747
+I1
+sS'J'
+p748
+I1
+sS'Stopped'
+p749
+I1
+sS'Small'
+p750
+I1
+sS'scatological'
+p751
+I1
+sS'Guide'
+p752
+I4
+sS'longer'
+p753
+I1
+sS'Heavy'
+p754
+I1
+sS'Sinjar'
+p755
+I1
+sS'Alterations'
+p756
+I1
+sS'vhs'
+p757
+I1
+sS'Close'
+p758
+I1
+sS'Crisis'
+p759
+I1
+sS'aehandlece1uwindowfudocumente2var'
+p760
+I1
+sS'videos'
+p761
+I1
+sS'taste'
+p762
+I1
+sS'Wordplay'
+p763
+I1
+sS'an'
+p764
+I4
+sS'How'
+p765
+I10
+sS'Real'
+p766
+I4
+sS'Attacker\xe2\x80\x99s'
+p767
+I1
+sS'Reflect'
+p768
+I1
+sS'5'
+p769
+I5
+sS'you'
+p770
+I4
+sS'Law'
+p771
+I2
+sS'Kurdish'
+p772
+I1
+sS'Vladimir'
+p773
+I2
+sS'videoPlaylist'
+p774
+I1
+sS'important'
+p775
+I6
+sS'coverage'
+p776
+I1
+sS'included'
+p777
+I1
+sS'wfloading'
+p778
+I2
+sS'Myanmar'
+p779
+I1
+sS'Modern'
+p780
+I1
+sS'untidy'
+p781
+I1
+sS'Critic'
+p782
+I1
+sS'storythemefeaturepromofirstchildbordertopnone'
+p783
+I1
+sS'onrcontextiegosnexportstgos7eSDFheefunctionennexportseQJf3ax3functionenfunction'
+p784
+I1
+sS'all'
+p785
+I2
+sS'caused'
+p786
+I1
+sS'Fix'
+p787
+I1
+sS'icons'
+p788
+I1
+sS'homepage'
+p789
+I6
+sS'longtime'
+p790
+I1
+sS'4em'
+p791
+I1
+sS'Angus'
+p792
+I1
+sS'Listings'
+p793
+I2
+sS'Sale'
+p794
+I4
+sS'Headers'
+p795
+I1
+sS'1px'
+p796
+I11
+sS'slocationsplit0pbeaconbamnrdataneterrorBeaconbamnrdatanetagentjsagentnewreliccomnr686minjsdnexportsoffsetioriginsfeaturesfaddEventListenerfaddEventListenerDOMContentLoadedo1uaddEventListenerloadt1fattachEventonreadystatechangeruattachEventonloadtamarkfirstbytei11223handleD5DuLPloaderfunctionennexportseG9z0Bl12functionenfunction'
+p797
+I1
+sS'large'
+p798
+I1
+sS'marginright'
+p799
+I2
+sS'flexDatainteractive'
+p800
+I1
+sS'Soldiers'
+p801
+I2
+sS'Chase'
+p802
+I1
+sS'messengersuggestions'
+p803
+I5
+sS'Selves'
+p804
+I1
+sS'Only'
+p805
+I1
+sS'Word'
+p806
+I2
+sS'East'
+p807
+I2
+sS'ribbon'
+p808
+I1
+sS'rfcreateElementscriptrsrcdprotoeagentnparentNodeinsertBeforernfunction'
+p809
+I1
+sS'what'
+p810
+I1
+sS'consumers'
+p811
+I1
+sS'crust'
+p812
+I1
+sS'crush'
+p813
+I1
+sS'rvar'
+p814
+I1
+sS'rlistenerselengthremitentvoidrqrqerqerqepushnvar'
+p815
+I1
+sS'paddingbottom'
+p816
+I2
+sS'Gift'
+p817
+I3
+sS'Contact'
+p818
+I1
+sS'Briefing'
+p819
+I2
+sS'search'
+p820
+I2
+sS'ArtsBeat'
+p821
+I1
+sS'Bullies'
+p822
+I1
+sS'action'
+p823
+I1
+sS'Style'
+p824
+I6
+sS'nythpDeveloping'
+p825
+I1
+sS'Top'
+p826
+I2
+sS'Too'
+p827
+I2
+sS'Opinion'
+p828
+I8
+sS'Kurds'
+p829
+I3
+sS'Europe'
+p830
+I2
+sS'Explorer'
+p831
+I2
+sS'attackers'
+p832
+I1
+sS'Cities\xe2\x80\x99'
+p833
+I1
+sS'Automobiles'
+p834
+I2
+sS'Lives'
+p835
+I1
+sS'Russian'
+p836
+I1
+sS'textalign'
+p837
+I8
+sS'underprivileged'
+p838
+I1
+sS'Cooking'
+p839
+I1
+sS'erode'
+p840
+I1
+sS'St'
+p841
+I1
+sS'admissions'
+p842
+I1
+sS'American'
+p843
+I1
+sS'Mass'
+p844
+I2
+sS'none'
+p845
+I27
+sS'include'
+p846
+I1
+sS'Followed'
+p847
+I1
+sS'SelfDefense'
+p848
+I1
+sS'bordertop'
+p849
+I5
+sS'326891'
+p850
+I1
+sS'tentnn0undefinedtypeof'
+p851
+I1
+sS'Chimps'
+p852
+I1
+sS'Cause'
+p853
+I1
+sS'spanabcregion'
+p854
+I2
+sS'needs'
+p855
+I1
+sS'urlhttpgraphics8nytimescompackagesimageshomepagenewslettericonpng'
+p856
+I1
+sS'Unending'
+p857
+I1
+sS'Meaning'
+p858
+I1
+sS'Television'
+p859
+I2
+sS'plans'
+p860
+I1
+sS'Foreign'
+p861
+I1
+sS'Matter'
+p862
+I1
+sS'coming'
+p863
+I2
+sS'Syria'
+p864
+I1
+sS'response'
+p865
+I1
+sS'Really'
+p866
+I1
+sS'ribbonChartbeatMostEmailed'
+p867
+I1
+sS'tvar'
+p868
+I2
+sS'Player'
+p869
+I1
+sS'assailant'
+p870
+I1
+sS'httpstatic01nytcomjs2buildvideo20videofactoryrequire'
+p871
+I1
+sS'Bolster'
+p872
+I1
+sS'What'
+p873
+I1
+sS'Arial'
+p874
+I1
+sS'help'
+p875
+I1
+sS'ntypeof'
+p876
+I1
+sS'Diamonds'
+p877
+I1
+sS'bordertopcolor'
+p878
+I1
+sS'ccolumncolumn'
+p879
+I2
+sS'style'
+p880
+I1
+sS'Full'
+p881
+I1
+sS'20'
+p882
+I2
+sS'bordernone'
+p883
+I1
+sS'freturnonaemitncreateulistenersceventsffunction'
+p884
+I1
+sS'GORDON'
+p885
+I1
+sS'splitlayout'
+p886
+I7
+sS'soccer'
+p887
+I1
+sS'might'
+p888
+I1
+sS'fines'
+p889
+I1
+sS'waitSeconds'
+p890
+I1
+sS'Evolution'
+p891
+I1
+sS'return'
+p892
+I3
+sS'timestamp'
+p893
+I2
+sS'demographics'
+p894
+I1
+sS'L'
+p895
+I1
+sS'flexDataeventid'
+p896
+I1
+sS'georgiatimes'
+p897
+I1
+sS'Ban'
+p898
+I1
+sS'Fight'
+p899
+I2
+sS'document'
+p900
+I1
+sS'referheading'
+p901
+I1
+sS'spanABLedePackage'
+p902
+I2
+sS'ATTACK'
+p903
+I1
+sS'nythpSpanABCMiddleColumn'
+p904
+I1
+sS'windowNREUMNREUMnrrequirefunctionentfunction'
+p905
+I1
+sS'Sports'
+p906
+I5
+sS'ATSV'
+p907
+I1
+sS'Build'
+p908
+I1
+sS'More'
+p909
+I6
+sS'ADAM'
+p910
+I1
+sS'7'
+p911
+I1
+sS'Cook'
+p912
+I1
+sS'paidPostFivePack'
+p913
+I1
+sS'reeecreatenexportstteerrqeeQJf3axhandlefunctionennexportseD5DuLPXL7HBIfunctionenfunction'
+p914
+I1
+sS'4px'
+p915
+I5
+sS'Protect'
+p916
+I1
+sS'Drama'
+p917
+I1
+sS'ET'
+p918
+I3
+sS'People'
+p919
+I1
+sS'8YearOld'
+p920
+I3
+sS'columnfirstchild'
+p921
+I4
+sS'rcompletefreadyStateofunction'
+p922
+I1
+sS'Copyright'
+p923
+I1
+sS'SCHWIRTZ'
+p924
+I1
+sS'traveled'
+p925
+I1
+sS'EmailedMost'
+p926
+I1
+sS'Goes'
+p927
+I2
+sS'Speaks'
+p928
+I1
+sS'story'
+p929
+I4
+sS'jet'
+p930
+I1
+sS'recommendedLabelTest'
+p931
+I1
+sS'Disrupted'
+p932
+I1
+sS'part'
+p933
+I1
+sS'Problem'
+p934
+I1
+sS'grace'
+p935
+I1
+sS'Road'
+p936
+I1
+sS'throttle'
+p937
+I11
+sS'Cancer'
+p938
+I1
+sS'Puzzle'
+p939
+I2
+sS'httpa1nytcomassetshomepage20151113101625imagesfoundationlogos'
+p940
+I1
+sS'DESCRIPTOR'
+p941
+I1
+sS'Layouts'
+p942
+I1
+sS'Extinction'
+p943
+I1
+sS'nythpBriefingNewsletterSignup'
+p944
+I1
+sS'Yazidis'
+p945
+I1
+sS'asetPageViewNameaddPageActionsetCustomAttributefinishedaddToTraceinlineHitnoticeErroroafunctionenwindowNREUMntapinnexportswindowNREUM112213handleD5DuLPgosfunctionennexportse7eSDFh7eSDFhfunctionenfunction'
+p946
+I1
+sS'Instamom'
+p947
+I2
+sS'paths'
+p948
+I1
+sS'Fleeting'
+p949
+I1
+sS'Ukrainian'
+p950
+I1
+sS'Food'
+p951
+I6
+sS'Confusion'
+p952
+I1
+sS'borderbottom'
+p953
+I11
+sS'With'
+p954
+I6
+sS'M\xc3\xa9nage'
+p955
+I1
+sS'Myself'
+p956
+I1
+sS'Episode'
+p957
+I1
+sS'Attacks'
+p958
+I8
+sS'Anybody'
+p959
+I1
+sS'sponsored'
+p960
+I1
+sS'The'
+p961
+I34
+sS'appear'
+p962
+I1
+sS'NYTDFlexTypes'
+p963
+I4
+sS'Google'
+p964
+I1
+sS'clear'
+p965
+I1
+sS'tdocumentcreateElementscripttasync0ttypetextjavascriptvar'
+p966
+I1
+sS'Profit'
+p967
+I1
+sS'SCHMITT'
+p968
+I1
+sS'norepeat'
+p969
+I5
+sS'marginleft'
+p970
+I12
+sS'Hill'
+p971
+I1
+sS'font'
+p972
+I1
+sS'find'
+p973
+I1
+sS'Affordable'
+p974
+I1
+sS'22px'
+p975
+I1
+sS'documentreadyfunction'
+p976
+I2
+sS'French'
+p977
+I2
+sS'Todayrsquos'
+p978
+I2
+sS'r1otn0iArray0o0or'
+p979
+I1
+sS'his'
+p980
+I1
+sS'hit'
+p981
+I1
+sS'Wife'
+p982
+I2
+sS'nythpSplitCodelayout'
+p983
+I4
+sS'Favorite'
+p984
+I1
+sS'Thanksgiving'
+p985
+I8
+sS'Code'
+p986
+I2
+sS'Outcry'
+p987
+I1
+sS'banner'
+p988
+I1
+sS'Saying'
+p989
+I1
+sS'Protests'
+p990
+I1
+sS'Help'
+p991
+I1
+sS'Inflicting'
+p992
+I2
+sS'Guides'
+p993
+I2
+sS'SAYS'
+p994
+I1
+sS'For'
+p995
+I5
+sS'573px'
+p996
+I1
+sS'France'
+p997
+I3
+sS'windowliveUpdatesFlextypeLoaded'
+p998
+I2
+sS'edinfoNREUMinfonfgetElementsByTagNamescript0ifeelicenseKeyeapplicationIDncpfunctionntn'
+p999
+I1
+sS'Derails'
+p1000
+I1
+sS'Towers'
+p1001
+I1
+sS'perilous'
+p1002
+I1
+sS'watchingbetaoptincontainer'
+p1003
+I3
+sS'CeaseFire'
+p1004
+I1
+sS'spanabtopregion'
+p1005
+I9
+sS'DesignCentered'
+p1006
+I1
+sS'V\xc3\xa9ra\xe2\x80\x99'
+p1007
+I1
+sS'Bistro'
+p1008
+I1
+sS'Could'
+p1009
+I1
+sS'testId'
+p1010
+I11
+sS'lineheight'
+p1011
+I11
+sS'Chip'
+p1012
+I1
+sS'Hard'
+p1013
+I1
+sS'foreign'
+p1014
+I1
+sS'Nobel'
+p1015
+I1
+sS'unfolded'
+p1016
+I1
+sS'Way'
+p1017
+I1
+sS'War'
+p1018
+I3
+sS'Adviser'
+p1019
+I1
+sS'Play'
+p1020
+I2
+sS'Students'
+p1021
+I1
+sS'KIRKPATRICK'
+p1022
+I1
+sS'Trail'
+p1023
+I2
+sS'Train'
+p1024
+I1
+sS'California'
+p1025
+I3
+sS'Plan'
+p1026
+I2
+sS'Women'
+p1027
+I1
+sS'slideshow'
+p1028
+I1
+sS'else'
+p1029
+I1
+sS'h3kicker'
+p1030
+I2
+sS'GuideparentaddClassnythpGiftguide'
+p1031
+I1
+sS'towns'
+p1032
+I1
+sS'16px'
+p1033
+I2
+sS'Todays'
+p1034
+I3
+sS'look'
+p1035
+I1
+sS'Journeys'
+p1036
+I1
+sS'solid'
+p1037
+I11
+sS'Sales'
+p1038
+I1
+sS'College'
+p1039
+I1
+sS'Story\xe2\x80\x99'
+p1040
+I1
+sS'City'
+p1041
+I2
+sS'nytfranklinhelveticaarialsansserif'
+p1042
+I1
+sS'Strategy'
+p1043
+I4
+sS'Tim'
+p1044
+I1
+sS'Eagles'
+p1045
+I1
+sS'e2e2e2'
+p1046
+I1
+sS'E33D26'
+p1047
+I1
+sS'9'
+p1048
+I1
+sS'fefunction'
+p1049
+I1
+sS'STACK'
+p1050
+I1
+sS'Movies'
+p1051
+I2
+sS'000'
+p1052
+I10
+sS'backgroundimage'
+p1053
+I2
+sS'Parisians'
+p1054
+I1
+sS'along'
+p1055
+I1
+sS'Jolie'
+p1056
+I1
+sS'recent'
+p1057
+I1
+sS'Technology'
+p1058
+I1
+sS'Rate'
+p1059
+I1
+sS'Economic'
+p1060
+I1
+sS'Tools'
+p1061
+I1
+sS'T'
+p1062
+I4
+sS'Living'
+p1063
+I1
+sS'Internet'
+p1064
+I2
+sS'Include'
+p1065
+I1
+sS'input'
+p1066
+I1
+sS'rObjectprototypehasOwnPropertynexportst13functionenfunction'
+p1067
+I1
+sS'Robert'
+p1068
+I2
+sS'On'
+p1069
+I3
+sS'victims'
+p1070
+I1
+sS'Faster'
+p1071
+I1
+sS'nythpHideBylines'
+p1072
+I1
+sS'Mascara'
+p1073
+I1
+sS'Retracing'
+p1074
+I1
+sS'PHILIP'
+p1075
+I1
+sS'modifications'
+p1076
+I1
+sS'd'
+p1077
+I1
+sS'OF'
+p1078
+I2
+sS'Cohen'
+p1079
+I3
+sS'foundationmain'
+p1080
+I2
+sS'Rising'
+p1081
+I1
+sS'Columnists'
+p1082
+I1
+sS'names'
+p1083
+I1
+sS'velcroSocialFollow'
+p1084
+I1
+sS'Fears'
+p1085
+I2
+sS'homepage20151113101625jsshared'
+p1086
+I1
+sS'Email'
+p1087
+I1
+sS'Daypart'
+p1088
+I1
+sS'Injured'
+p1089
+I1
+sS'Frank'
+p1090
+I3
+sS'AMC'
+p1091
+I1
+sS'nythpBreaking'
+p1092
+I3
+sS'AMY'
+p1093
+I1
+sS'liveupdatesmodule'
+p1094
+I1
+sS'elnupdateswidget7600elnsulsm'
+p1095
+I1
+sS'Simpler'
+p1096
+I1
+sS'David'
+p1097
+I2
+sS'httpstatic01nytcomlivecoveragelive'
+p1098
+I1
+sS'deductibles'
+p1099
+I1
+sS'graduation'
+p1100
+I1
+sS'8px'
+p1101
+I5
+sS'Distant'
+p1102
+I3
+sS'borderbottomwidth'
+p1103
+I1
+sS'block'
+p1104
+I2
+sS'NewsDeveloping'
+p1105
+I1
+sS'Bears'
+p1106
+I1
+sS'Unhappy'
+p1107
+I1
+sS'Their'
+p1108
+I3
+sS'Fran\xc3\xa7ois'
+p1109
+I1
+sS'World\xe2\x80\x99'
+p1110
+I1
+sS'nythpTGMiddle'
+p1111
+I1
+sS'Ruth'
+p1112
+I2
+sS'Sauce'
+p1113
+I1
+sS'12px'
+p1114
+I8
+sS'Driven'
+p1115
+I1
+sS'Victims'
+p1116
+I1
+sS'borderbottomcolor'
+p1117
+I1
+sS'Polite'
+p1118
+I1
+sS'long'
+p1119
+I1
+sS'Side'
+p1120
+I1
+sS'Channeling'
+p1121
+I1
+sS'Coverage'
+p1122
+I1
+sS'forward'
+p1123
+I1
+sS'elsewhere'
+p1124
+I2
+sS'Most'
+p1125
+I1
+sS'serif'
+p1126
+I1
+sS'Opinionator'
+p1127
+I1
+sS'Austin'
+p1128
+I1
+sS'We\xe2\x80\x99ve'
+p1129
+I1
+sS'us'
+p1130
+I2
+sS'Books'
+p1131
+I3
+sS'Aggressive'
+p1132
+I2
+sS'0012'
+p1133
+I1
+sS'nytmmFadingSlideShow'
+p1134
+I2
+sS'To'
+p1135
+I4
+sS'Attack'
+p1136
+I3
+sS'New'
+p1137
+I10
+sS'Upshot'
+p1138
+I1
+sS'Manhattan'
+p1139
+I1
+sS'Map'
+p1140
+I1
+sS'scrutinized'
+p1141
+I1
+sS'May'
+p1142
+I1
+sS'Civilized'
+p1143
+I1
+sS'application'
+p1144
+I1
+sS'bcolumn'
+p1145
+I21
+sS'Student'
+p1146
+I2
+sS'eentvar'
+p1147
+I1
+sS'pageManager'
+p1148
+I2
+sS'Case'
+p1149
+I2
+sS'Survivor\xe2\x
+I1
+sS'Upheaval'
+p1570
+I1
+sS'RICHARD'
+p1571
+I1
+sS'moments'
+p1572
+I1
+sS'Mother'
+p1573
+I2
+sS'Access'
+p1574
+I1
+sS'Sunday'
+p1575
+I10
+sS'BY'
+p1576
+I1
+sS'Be'
+p1577
+I3
+sS'Company'
+p1578
+I1
+sS'discuss'
+p1579
+I1
+sS'nythpThanksgivingTable'
+p1580
+I1
+sS'By'
+p1581
+I13
+sS'bordercolor'
+p1582
+I2
+sS'Rodham'
+p1583
+I1
+sS'Thread'
+p1584
+I1
+sS'Investigate'
+p1585
+I1
+sS'know'
+p1586
+I1
+sS'variants'
+p1587
+I11
+sS'height'
+p1588
+I5
+sS'Fashion'
+p1589
+I4
+sS'testName'
+p1590
+I11
+sS'tryTypekitloadcatche'
+p1591
+I1
+sS'Desserts'
+p1592
+I1
+sS'Durham'
+p1593
+I1
+sS'Fear'
+p1594
+I2
+sS'borderbottomwidth'
+p1595
+I1
+sS'11px'
+p1596
+I6
+sS'Samples'
+p1597
+I1
+sS'Crossword'
+p1598
+I4
+sS'Editor'
+p1599
+I2
+sS'YorkshortA'
+p1600
+I1
+sS'home'
+p1601
+I14
+sS'Indicates'
+p1602
+I1
+sS'leaving'
+p1603
+I2
+sS'windowNREUMNREUMNREUMinfobeaconbamnrdatanetlicenseKeyb5bcf2eba4applicationID4491446transactionNameYwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUAqueueTime0applicationTime569ttGuidagentTokenuserAttributeserrorBeaconbamnrdatanetagentjsagentnewreliccomnr686minjs'
+p1604
+I1
+sS'does'
+p1605
+I1
+sS'AheadparentaddClassnythpBriefings'
+p1606
+I1
+sS'FactChecking'
+p1607
+I1
+sS'Killed'
+p1608
+I2
+sS'Adviser'
+p1609
+I1
+sS'windowmagnumprocessFlagslimitFabrikSavemoreFollowSuggestionsunfollowCommentshomepageOpinionKickerCssfollowFeatureallTheEmphasesvideoVHSCovervideoVHSHomepageCoveradditionalOpinionRegionshpViewabilityminiNavCountnewsEventHierarchyfreeTrialinsiderLaunch'
+p1610
+I1
+sS'Inside'
+p1611
+I1
+sS'Gary'
+p1612
+I1
+sS'MICHAEL'
+p1613
+I2
+sS'Up'
+p1614
+I1
+sS'Us'
+p1615
+I2
+sS'Steward'
+p1616
+I1
+sS'after'
+p1617
+I2
+sS'about'
+p1618
+I1
+sS'hpHeader'
+p1619
+I25
+sS'Bouquet'
+p1620
+I1
+sS'US'
+p1621
+I5
+sS'nythpDaypartRegion'
+p1622
+I6
+sS'Rape'
+p1623
+I2
+sS'dwrite'
+p1624
+I3
+sS'Voyage'
+p1625
+I1
+sS'windownewrelicnewrelicwindowNREUMvar'
+p1626
+I1
+sS'own'
+p1627
+I1
+sS'Alerts'
+p1628
+I1
+sS'h6'
+p1629
+I44
+sS'who\xe2\x80\x99s'
+p1630
+I1
+sS'h4'
+p1631
+I2
+sS'h5'
+p1632
+I2
+sS'dataoptionseventid7600eventslugparisattacksliveupdatesheaderLATEST'
+p1633
+I1
+sS'var'
+p1634
+I5
+sS'November'
+p1635
+I1
+sS'function'
+p1636
+I10
+sS'HIGGINS'
+p1637
+I2
+sS'PEAR'
+p1638
+I1
+sS'Des'
+p1639
+I1
+sS'Well'
+p1640
+I4
+sS'Steinem'
+p1641
+I3
+sS'portalheader'
+p1642
+I1
+sS'Ted'
+p1643
+I3
+sS'placed'
+p1644
+I2
+sS'89'
+p1645
+I1
+sS'monument'
+p1646
+I2
+sS'Women'
+p1647
+I1
+sS'Insurance'
+p1648
+I2
+sS'\xc2\xbb'
+p1649
+I2
+sS'nbspComments'
+p1650
+I4
+sS'Writes'
+p1651
+I2
+sS'marginbottom'
+p1652
+I12
+sS'pie'
+p1653
+I1
+sS'twist'
+p1654
+I1
+sS'urlhttpi1nytcomimagesiconsiconalert12x12a81817png'
+p1655
+I1
+sS'dietary'
+p1656
+I1
+sS'Freshened'
+p1657
+I1
+sS'identities'
+p1658
+I1
+sS'Fate'
+p1659
+I1
+sS'Wines'
+p1660
+I1
+sS'Centered'
+p1661
+I2
+sS'Delivery'
+p1662
+I1
+sS'Islamic'
+p1663
+I1
+sS'Gimbel\xe2\x80\x99s'
+p1664
+I1
+sS'h1storyheading'
+p1665
+I1
+sS'Know'
+p1666
+I1
+sS'sick'
+p1667
+I1
+sS'Improving'
+p1668
+I1
+sS'HPHEADER'
+p1669
+I2
+sS'Remove'
+p1670
+I1
+sS'rObjectprototypehasOwnPropertynexportstD5DuLPfunctionenfunction'
+p1671
+I1
+sS'Act'
+p1672
+I1
+sS'Congressman'
+p1673
+I1
+sS'friends'
+p1674
+I1
+sS'Page'
+p1675
+I1
+sS'Coach'
+p1676
+I1
+sS'pocketregion'
+p1677
+I10
+sS'Fights'
+p1678
+I1
+sS'Site'
+p1679
+I3
+sS'Channeling'
+p1680
+I1
+sS'urlhttpwwwnytimescomslideshow20151115worldeuropeattacksincentralparishtmlheadlineAttacks'
+p1681
+I1
+sS'Refined'
+p1682
+I1
+s.sS'700'
+p1283
+I8
+sS'urlhttpgraphics8nytimescomnewsgraphics20150225electionnavigationassetsimageselection2016logopng'
+p1284
+I1
+sS'meta'
+p1285
+I1
+sS'cereturn'
+p1286
+I1
+sS'Threaten'
+p1287
+I1
+sS'Grips'
+p1288
+I2
+sS'Toddler'
+p1289
+I3
+sS'out'
+p1290
+I1
+sS'Gravy'
+p1291
+I1
+sS'Season'
+p1292
+I1
+sS'\xe2\x80\x98Wonderland\xe2\x80\x99'
+p1293
+I1
+sS'enoovar'
+p1294
+I1
+sS'supports'
+p1295
+I1
+sS'Grave'
+p1296
+I1
+sS'Stage'
+p1297
+I2
+sS'This'
+p1298
+I2
+sS'roonooexportsreturn'
+p1299
+I1
+sS'Corrections'
+p1300
+I1
+sS'Senator'
+p1301
+I1
+sS'Topics'
+p1302
+I1
+sS'Dayton'
+p1303
+I1
+sS'keep'
+p1304
+I1
+sS'repeaty'
+p1305
+I1
+sS'ehttpsdocumentlocationprotocoltsrcehttpshttpwwwgoogletagservicescomtagjsgptjsvar'
+p1306
+I1
+sS'ntexportsiffunctiontypeof'
+p1307
+I1
+sS'Review'
+p1308
+I13
+sS'Martin'
+p1309
+I1
+sS'North'
+p1310
+I2
+sS'Eastern'
+p1311
+I1
+sS'data'
+p1312
+I1
+sS'Symbol'
+p1313
+I1
+sS'WORK'
+p1314
+I1
+sS'requirefoundationmain'
+p1315
+I2
+sS'h6hover'
+p1316
+I4
+sS'Iraq'
+p1317
+I1
+sS'Trophy'
+p1318
+I1
+sS'Stampede'
+p1319
+I1
+sS'97px'
+p1320
+I1
+sS'R'
+p1321
+I1
+sS'fontsize'
+p1322
+I16
+sS'foundationviewspagemanager'
+p1323
+I2
+sS'Democratic'
+p1324
+I4
+sS'rreturnvar'
+p1325
+I1
+sS'\xe2\x80\x98Nabokov'
+p1326
+I1
+sS'Buyers\xc2\xa0Family'
+p1327
+I1
+sS'Edition'
+p1328
+I1
+sS'requirejquerynyt'
+p1329
+I2
+sS'Appetite'
+p1330
+I1
+sS'getFlexDatadataoptions'
+p1331
+I1
+sS'mediaslideshow'
+p1332
+I1
+sS'Veteran'
+p1333
+I1
+sS'fourbedroom'
+p1334
+I1
+sS'Writers'
+p1335
+I1
+sS'have'
+p1336
+I1
+sS'need'
+p1337
+I1
+sS'Soccer'
+p1338
+I1
+sS'border'
+p1339
+I3
+sS'325rem'
+p1340
+I1
+sS'After'
+p1341
+I7
+sS'authmtr'
+p1342
+I1
+sS'Science'
+p1343
+I3
+sS'accuracy'
+p1344
+I1
+sS'Moines'
+p1345
+I1
+sS'collaboration'
+p1346
+I1
+sS'who'
+p1347
+I2
+sS'01'
+p1348
+I1
+sS'Games'
+p1349
+I1
+sS'masthead'
+p1350
+I1
+sS'homepage20151113101625jsfoundation'
+p1351
+I1
+sS'Some'
+p1352
+I1
+sS'Manners'
+p1353
+I1
+sS'High'
+p1354
+I3
+sS'Export'
+p1355
+I1
+sS'nythpHideTimestamps'
+p1356
+I1
+sS'Father\xe2\x80\x99s'
+p1357
+I2
+sS'Saturday'
+p1358
+I1
+sS'09'
+p1359
+I1
+sS'Paris'
+p1360
+I19
+sS'text'
+p1361
+I1
+sS'0036'
+p1362
+I1
+sS'0033'
+p1363
+I1
+sS'NYTDFlexTypespushtargetFT100000004038281typeFadingSlideShowdataoptionswidth190height126jsonphttpjson8nytimescomslideshow20151115uspoliticsdemocraticcandidatesdebateslideshowjsonplinkhttpwwwnytimescom20151115uspoliticsdemocraticdebatecbshtmlphotosphotourlcreditadvanceddelay3limitjsonp0renditionmediumFlexible177targetoverrideabbreviatecreditstrue'
+p1364
+I1
+sS'Innovation'
+p1365
+I2
+sS'SCHREUER'
+p1366
+I1
+sS'30px'
+p1367
+I1
+sS'Undo'
+p1368
+I1
+sS'Craft'
+p1369
+I1
+sS'York'
+p1370
+I8
+sS'5px'
+p1371
+I3
+sS'Legend'
+p1372
+I1
+sS'hall'
+p1373
+I1
+sS'Homes'
+p1374
+I4
+sS'CHOZICK'
+p1375
+I1
+sS'SHEEHAN'
+p1376
+I1
+sS'Applause'
+p1377
+I1
+sS'DategetTimeconcatiargumentsvar'
+p1378
+I1
+sS'999'
+p1379
+I4
+sS'FretFree'
+p1380
+I1
+sS'Fringes'
+p1381
+I1
+sS'129'
+p1382
+I1
+sS'o0oppupapplystreturn'
+p1383
+I1
+sS'Century'
+p1384
+I2
+sS'Broadway'
+p1385
+I1
+sS'generations'
+p1386
+I1
+sS'Badlands\xe2\x80\x99'
+p1387
+I1
+sS'Alice\xe2\x80\x99s'
+p1388
+I1
+sS'Unite'
+p1389
+I1
+sS'officials'
+p1390
+I2
+sS'Frank\xe2\x80\x99s'
+p1391
+I1
+sS'Ebola'
+p1392
+I1
+sS'NYTDFlexTypespushtargetFT100000004037217typeHPLiveUpdate3dataoptionseventid7600eventslugparisattacksliveupdatesheaderLATEST'
+p1393
+I1
+sS'Palatable'
+p1394
+I2
+sS'Good'
+p1395
+I1
+sS'Woozy'
+p1396
+I1
+sS'flyfishing'
+p1397
+I1
+sS'laureate'
+p1398
+I1
+sS'Harvard'
+p1399
+I2
+sS'21rem'
+p1400
+I1
+sS'Republican'
+p1401
+I2
+sS'Kitchen'
+p1402
+I1
+sS'2px'
+p1403
+I9
+sS'Martial'
+p1404
+I1
+sS'fontstyle'
+p1405
+I2
+sS'Race'
+p1406
+I2
+sS'display'
+p1407
+I15
+sS'Camryn'
+p1408
+I1
+sS'Design'
+p1409
+I1
+sS'Lawyer'
+p1410
+I1
+sS'Campus'
+p1411
+I2
+sS'backgroundcolor'
+p1412
+I1
+sS'Her'
+p1413
+I2
+sS'windowNREUMNREUMNREUMinfobeaconbamnrdatanetlicenseKeyb5bcf2eba4applicationID4491446transactionNameYwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUAqueueTime0applicationTime530ttGuidagentTokenuserAttributeserrorBeaconbamnrdatanetagentjsagentnewreliccomnr686minjs'
+p1414
+I1
+sS'Music'
+p1415
+I3
+sS'table'
+p1416
+I1
+sS'promotronOpts'
+p1417
+I1
+sS'\xe2\x80\x98CoAuthor\xe2\x80\x99'
+p1418
+I1
+sS'Mired'
+p1419
+I1
+sS'Get'
+p1420
+I1
+sS'Hollande'
+p1421
+I2
+sS'Immigration'
+p1422
+I1
+sS'Missouri8217s'
+p1423
+I1
+sS'Brooklyn'
+p1424
+I2
+sS'Obituaries'
+p1425
+I2
+sS'Aziz'
+p1426
+I2
+sS'f8e9d2'
+p1427
+I1
+sS'liveupdateflextypev4js'
+p1428
+I1
+sS'nythpTGRow'
+p1429
+I1
+sS'backgroundrepeat'
+p1430
+I2
+sS'runaroundRight'
+p1431
+I2
+sS'kickers'
+p1432
+I1
+sS'Merrimack'
+p1433
+I1
+sS'World'
+p1434
+I4
+sS'Hot'
+p1435
+I1
+sS'NOSSITER'
+p1436
+I1
+sS'nytfranklinarialhelveticasansserif'
+p1437
+I2
+sS'MORE'
+p1438
+I1
+sS'Hope'
+p1439
+I1
+sS'Policing'
+p1440
+I1
+sS'began'
+p1441
+I1
+sS'defiant'
+p1442
+I1
+sS'NYTimescom'
+p1443
+I2
+sS'Manheim\xe2\x80\x99s'
+p1444
+I1
+sS'Car'
+p1445
+I2
+sS'Oxford'
+p1446
+I1
+sS'difficult'
+p1447
+I1
+sS'Potatoes'
+p1448
+I1
+sS'Order'
+p1449
+I2
+sS'Gloria'
+p1450
+I2
+sS'center'
+p1451
+I4
+sS'Challenged'
+p1452
+I1
+sS'Julia'
+p1453
+I1
+sS'352'
+p1454
+I1
+sS'Have'
+p1455
+I2
+sS'position'
+p1456
+I1
+sS'Upheaval'
+p1457
+I1
+sS'RICHARD'
+p1458
+I1
+sS'moments'
+p1459
+I1
+sS'Mother'
+p1460
+I2
+sS'Access'
+p1461
+I1
+sS'Sunday'
+p1462
+I10
+sS'BY'
+p1463
+I1
+sS'Be'
+p1464
+I3
+sS'Company'
+p1465
+I1
+sS'day'
+p1466
+I1
+sS'nythpThanksgivingTable'
+p1467
+I1
+sS'By'
+p1468
+I13
+sS'bordercolor'
+p1469
+I2
+sS'Rodham'
+p1470
+I1
+sS'Thread'
+p1471
+I1
+sS'Investigate'
+p1472
+I1
+sS'know'
+p1473
+I1
+sS'variants'
+p1474
+I11
+sS'2nd'
+p1475
+I1
+sS'Fashion'
+p1476
+I4
+sS'testName'
+p1477
+I11
+sS'tryTypekitloadcatche'
+p1478
+I1
+sS'Desserts'
+p1479
+I1
+sS'Durham'
+p1480
+I1
+sS'Fear'
+p1481
+I3
+sS'11px'
+p1482
+I6
+sS'Samples'
+p1483
+I1
+sS'Crossword'
+p1484
+I4
+sS'Editor'
+p1485
+I2
+sS'home'
+p1486
+I14
+sS'Indicates'
+p1487
+I1
+sS'does'
+p1488
+I1
+sS'AheadparentaddClassnythpBriefings'
+p1489
+I1
+sS'FactChecking'
+p1490
+I1
+sS'Killed'
+p1491
+I2
+sS'windowmagnumprocessFlagslimitFabrikSavemoreFollowSuggestionsunfollowCommentshomepageOpinionKickerCssfollowFeatureallTheEmphasesvideoVHSCovervideoVHSHomepageCoveradditionalOpinionRegionshpViewabilityminiNavCountnewsEventHierarchyfreeTrialinsiderLaunch'
+p1492
+I1
+sS'Inside'
+p1493
+I1
+sS'Gary'
+p1494
+I1
+sS'MICHAEL'
+p1495
+I2
+sS'Up'
+p1496
+I1
+sS'Us'
+p1497
+I2
+sS'Steward'
+p1498
+I1
+sS'after'
+p1499
+I1
+sS'hpHeader'
+p1500
+I25
+sS'Bouquet'
+p1501
+I1
+sS'US'
+p1502
+I4
+sS'nythpDaypartRegion'
+p1503
+I6
+sS'Rape'
+p1504
+I2
+sS'dwrite'
+p1505
+I3
+sS'Voyage'
+p1506
+I1
+sS'windownewrelicnewrelicwindowNREUMvar'
+p1507
+I1
+sS'own'
+p1508
+I1
+sS'Alerts'
+p1509
+I1
+sS'h6'
+p1510
+I44
+sS'Two'
+p1511
+I2
+sS'h4'
+p1512
+I2
+sS'h5'
+p1513
+I2
+sS'Sickness'
+p1514
+I1
+sS'var'
+p1515
+I5
+sS'November'
+p1516
+I1
+sS'function'
+p1517
+I10
+sS'HIGGINS'
+p1518
+I2
+sS'PEAR'
+p1519
+I1
+sS'Des'
+p1520
+I1
+sS'Well'
+p1521
+I4
+sS'Steinem'
+p1522
+I3
+sS'he'
+p1523
+I1
+sS'portalheader'
+p1524
+I1
+sS'Ted'
+p1525
+I3
+sS'89'
+p1526
+I1
+sS'Care'
+p1527
+I1
+sS'Insurance'
+p1528
+I2
+sS'\xc2\xbb'
+p1529
+I2
+sS'nbspComments'
+p1530
+I4
+sS'Writes'
+p1531
+I2
+sS'marginbottom'
+p1532
+I12
+sS'pie'
+p1533
+I1
+sS'twist'
+p1534
+I1
+sS'urlhttpi1nytcomimagesiconsiconalert12x12a81817png'
+p1535
+I1
+sS'dietary'
+p1536
+I1
+sS'Freshened'
+p1537
+I1
+sS'identities'
+p1538
+I1
+sS'Fate'
+p1539
+I1
+sS'Wines'
+p1540
+I1
+sS'Centered'
+p1541
+I2
+sS'Delivery'
+p1542
+I1
+sS'Islamic'
+p1543
+I3
+sS'Gimbel\xe2\x80\x99s'
+p1544
+I1
+sS'other'
+p1545
+I1
+sS'h1storyheading'
+p1546
+I1
+sS'Song\xe2\x80\x99'
+p1547
+I1
+sS'sick'
+p1548
+I1
+sS'Improving'
+p1549
+I1
+sS'HPHEADER'
+p1550
+I2
+sS'Remove'
+p1551
+I1
+sS'rObjectprototypehasOwnPropertynexportstD5DuLPfunctionenfunction'
+p1552
+I1
+sS'Act'
+p1553
+I1
+sS'Congressman'
+p1554
+I1
+sS'friends'
+p1555
+I1
+sS'Page'
+p1556
+I1
+sS'Coach'
+p1557
+I1
+sS'pocketregion'
+p1558
+I10
+sS'Fights'
+p1559
+I1
+sS'Site'
+p1560
+I3
+sS'Refined'
+p1561
+I1
+s.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               es'
+p1566
+I1
+sS'352'
+p1567
+I1
+sS'Have'
+p1568
+I2
+sS'position'
+p1569
+I1
+sS'latest'
+p1570
+I1
+sS'Upheaval'
+p1571
+I1
+sS'RICHARD'
+p1572
+I1
+sS'moments'
+p1573
+I1
+sS'Mother'
+p1574
+I2
+sS'Access'
+p1575
+I1
+sS'Sunday'
+p1576
+I10
+sS'BY'
+p1577
+I1
+sS'Be'
+p1578
+I3
+sS'Company'
+p1579
+I1
+sS'discuss'
+p1580
+I1
+sS'nythpThanksgivingTable'
+p1581
+I1
+sS'By'
+p1582
+I13
+sS'bordercolor'
+p1583
+I2
+sS'Rodham'
+p1584
+I1
+sS'Thread'
+p1585
+I1
+sS'Investigate'
+p1586
+I1
+sS'know'
+p1587
+I1
+sS'variants'
+p1588
+I11
+sS'height'
+p1589
+I5
+sS'Fashion'
+p1590
+I4
+sS'testName'
+p1591
+I11
+sS'tryTypekitloadcatche'
+p1592
+I1
+sS'Desserts'
+p1593
+I1
+sS'Durham'
+p1594
+I1
+sS'Fear'
+p1595
+I2
+sS'borderbottomwidth'
+p1596
+I1
+sS'11px'
+p1597
+I6
+sS'Samples'
+p1598
+I1
+sS'Crossword'
+p1599
+I4
+sS'Editor'
+p1600
+I2
+sS'YorkshortA'
+p1601
+I1
+sS'home'
+p1602
+I14
+sS'Indicates'
+p1603
+I1
+sS'leaving'
+p1604
+I2
+sS'does'
+p1605
+I1
+sS'AheadparentaddClassnythpBriefings'
+p1606
+I1
+sS'FactChecking'
+p1607
+I1
+sS'Killed'
+p1608
+I2
+sS'Adviser'
+p1609
+I1
+sS'windowmagnumprocessFlagslimitFabrikSavemoreFollowSuggestionsunfollowCommentshomepageOpinionKickerCssfollowFeatureallTheEmphasesvideoVHSCovervideoVHSHomepageCoveradditionalOpinionRegionshpViewabilityminiNavCountnewsEventHierarchyfreeTrialinsiderLaunch'
+p1610
+I1
+sS'Inside'
+p1611
+I1
+sS'Gary'
+p1612
+I1
+sS'MICHAEL'
+p1613
+I2
+sS'Up'
+p1614
+I1
+sS'Us'
+p1615
+I2
+sS'Steward'
+p1616
+I1
+sS'after'
+p1617
+I2
+sS'about'
+p1618
+I1
+sS'hpHeader'
+p1619
+I25
+sS'Bouquet'
+p1620
+I1
+sS'US'
+p1621
+I5
+sS'nythpDaypartRegion'
+p1622
+I6
+sS'Rape'
+p1623
+I2
+sS'dwrite'
+p1624
+I3
+sS'Voyage'
+p1625
+I1
+sS'windownewrelicnewrelicwindowNREUMvar'
+p1626
+I1
+sS'own'
+p1627
+I1
+sS'Alerts'
+p1628
+I1
+sS'h6'
+p1629
+I44
+sS'who\xe2\x80\x99s'
+p1630
+I1
+sS'h4'
+p1631
+I2
+sS'h5'
+p1632
+I2
+sS'dataoptionseventid7600eventslugparisattacksliveupdatesheaderLATEST'
+p1633
+I1
+sS'var'
+p1634
+I5
+sS'November'
+p1635
+I1
+sS'function'
+p1636
+I10
+sS'HIGGINS'
+p1637
+I2
+sS'PEAR'
+p1638
+I1
+sS'Des'
+p1639
+I1
+sS'Well'
+p1640
+I4
+sS'Steinem'
+p1641
+I3
+sS'portalheader'
+p1642
+I1
+sS'Ted'
+p1643
+I3
+sS'placed'
+p1644
+I2
+sS'89'
+p1645
+I1
+sS'monument'
+p1646
+I2
+sS'Women'
+p1647
+I1
+sS'Insurance'
+p1648
+I2
+sS'\xc2\xbb'
+p1649
+I2
+sS'nbspComments'
+p1650
+I4
+sS'Writes'
+p1651
+I2
+sS'marginbottom'
+p1652
+I12
+sS'pie'
+p1653
+I1
+sS'twist'
+p1654
+I1
+sS'urlhttpi1nytcomimagesiconsiconalert12x12a81817png'
+p1655
+I1
+sS'dietary'
+p1656
+I1
+sS'Freshened'
+p1657
+I1
+sS'identities'
+p1658
+I1
+sS'Fate'
+p1659
+I1
+sS'Wines'
+p1660
+I1
+sS'Centered'
+p1661
+I2
+sS'Delivery'
+p1662
+I1
+sS'Islamic'
+p1663
+I1
+sS'Gimbel\xe2\x80\x99s'
+p1664
+I1
+sS'h1storyheading'
+p1665
+I1
+sS'Know'
+p1666
+I1
+sS'sick'
+p1667
+I1
+sS'Improving'
+p1668
+I1
+sS'HPHEADER'
+p1669
+I2
+sS'Remove'
+p1670
+I1
+sS'rObjectprototypehasOwnPropertynexportstD5DuLPfunctionenfunction'
+p1671
+I1
+sS'Act'
+p1672
+I1
+sS'Congressman'
+p1673
+I1
+sS'friends'
+p1674
+I1
+sS'Page'
+p1675
+I1
+sS'Coach'
+p1676
+I1
+sS'pocketregion'
+p1677
+I10
+sS'Fights'
+p1678
+I1
+sS'Site'
+p1679
+I3
+sS'Channeling'
+p1680
+I1
+sS'urlhttpwwwnytimescomslideshow20151115worldeuropeattacksincentralparishtmlheadlineAttacks'
+p1681
+I1
+sS'Refined'
+p1682
+I1
+s.

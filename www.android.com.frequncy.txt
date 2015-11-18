@@ -1,0 +1,858 @@
+Android 28
+your 8
+English 7
+you 5
+Developer 4
+Developer 4
+Developer 4
+Developer 4
+Developer 4
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+all 3
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+Canada 2
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+taxi 1
+(dp0
+S'taxi'
+p1
+I1
+sS'Canada'
+p2
+I2
+sS'all'
+p3
+I3
+sS'United'
+p4
+I2
+sS'just'
+p5
+I1
+sS'fran\xc3\xa7ais'
+p6
+I2
+sS'top'
+p7
+I1
+sS'recipe'
+p8
+I1
+sS'choose'
+p9
+I1
+sS'\xe6\x97\xa5\xe6\x9c\xac\xe8\xaa\x9e'
+p10
+I1
+sS'tablets'
+p11
+I1
+sS'Espa\xc3\xb1a'
+p12
+I1
+sS'find'
+p13
+I1
+sS'Resources'
+p14
+I2
+sS'developer'
+p15
+I1
+sS'what\xe2\x80\x99s'
+p16
+I1
+sS'\xeb\x8c\x80\xed\x95\x9c\xeb\xaf\xbc\xea\xb5\xad'
+p17
+I1
+sS'Nederland'
+p18
+I1
+sS'YouTube'
+p19
+I1
+sS'jdcreateElementsdlldataLayerlljasynctruejsrc'
+p20
+I1
+sS'going'
+p21
+I1
+sS'Nederlands'
+p22
+I1
+sS'Wear'
+p23
+I3
+sS'easy'
+p24
+I1
+sS'\xed\x95\x9c\xea\xb5\xad\xec\x96\xb4'
+p25
+I1
+sS'2014'
+p26
+I1
+sS'Now'
+p27
+I1
+sS'resources'
+p28
+I1
+sS'fdgetElementsByTagNames0'
+p29
+I1
+sS'espa\xc3\xb1ol'
+p30
+I2
+sS'Project'
+p31
+I3
+sS'Turn'
+p32
+I1
+sS'traffic'
+p33
+I1
+sS'little'
+p34
+I1
+sS'areas'
+p35
+I1
+sS'screens'
+p36
+I1
+sS'developers'
+p37
+I1
+sS'like'
+p38
+I1
+sS'sizes'
+p39
+I1
+sS'New'
+p40
+I1
+sS'Kingdom'
+p41
+I1
+sS'India'
+p42
+I1
+sS'50'
+p43
+I1
+sS'temple'
+p44
+I1
+sS'Four'
+p45
+I1
+sS'stuff'
+p46
+I1
+sS'quick'
+p47
+I1
+sS'through'
+p48
+I1
+sS'\xe4\xb8\xad\xe6\x96\x87'
+p49
+I2
+sS'works'
+p50
+I1
+sS'Find'
+p51
+I1
+sS'Gmail'
+p52
+I1
+sS'A'
+p53
+I1
+sS'\xe5\x8f\xb0\xe7\x81\xa3'
+p54
+I1
+sS'right'
+p55
+I1
+sS'For'
+p56
+I1
+sS'easytouse'
+p57
+I1
+sS'phones'
+p58
+I1
+sS'globe'
+p59
+I1
+sS'France'
+p60
+I1
+sS'Italia'
+p61
+I1
+sS'polski'
+p62
+I1
+sS'home'
+p63
+I3
+sS'Android'
+p64
+I28
+sS'Kong'
+p65
+I1
+sS'best'
+p66
+I1
+sS'gwebanalyticsAutoTrack'
+p67
+I1
+sS'Satellite'
+p68
+I1
+sS'Polska'
+p69
+I1
+sS'Auto'
+p70
+I1
+sS'away'
+p71
+I1
+sS'your'
+p72
+I8
+sS'may'
+p73
+I1
+sS'China'
+p74
+I1
+sS'switchnbsp'
+p75
+I1
+sS'Put'
+p76
+I1
+sS'new'
+p77
+I3
+sS'tips'
+p78
+I1
+sS'across'
+p79
+I1
+sS'available'
+p80
+I1
+sS'run'
+p81
+I1
+sS'power'
+p82
+I1
+sS'Versions'
+p83
+I1
+sS'cars'
+p84
+I1
+sS'screen'
+p85
+I3
+sS'windowdocumentscriptdataLayerGTMNBTRZZ'
+p86
+I1
+sS'DigitalGlobe'
+p87
+I1
+sS'operating'
+p88
+I1
+sS'English'
+p89
+I7
+sS'news'
+p90
+I1
+sS'come'
+p91
+I1
+sS'care'
+p92
+I1
+sS'wwwgoogletagmanagercomgtmjsididlfparentNodeinsertBeforejf'
+p93
+I1
+sS'Marshmallow'
+p94
+I3
+sS'Phones'
+p95
+I3
+sS'App'
+p96
+I1
+sS'UA56865601'
+p97
+I1
+sS'Back'
+p98
+I1
+sS'Hail'
+p99
+I1
+sS'44'
+p100
+I1
+sS'games'
+p101
+I1
+sS'\xe6\x97\xa5\xe6\x9c\xac'
+p102
+I1
+sS'Download'
+p103
+I1
+sS'let'
+p104
+I1
+sS'Calendar'
+p105
+I1
+sS'Millions'
+p106
+I1
+sS'comes'
+p107
+I1
+sS'Developer'
+p108
+I4
+sS'uniquely'
+p109
+I1
+sS'appsnbsp'
+p110
+I1
+sS'Story'
+p111
+I2
+sS'own'
+p112
+I1
+sS'features'
+p113
+I1
+sS'Privacy'
+p114
+I1
+sS'simple'
+p115
+I1
+sS'character'
+p116
+I1
+sS'Make'
+p117
+I1
+sS'italiano'
+p118
+I1
+sS'60'
+p119
+I1
+sS'Maps'
+p120
+I1
+sS'weather'
+p121
+I2
+sS'customisable'
+p122
+I3
+sS'KitKat'
+p123
+I1
+sS'Preview'
+p124
+I2
+sS'S\xe2\x80\x99More'
+p125
+I1
+sS'Store'
+p126
+I1
+sS'Play'
+p127
+I4
+sS'Australia'
+p128
+I1
+sS'from'
+p129
+I3
+sS'Get'
+p130
+I2
+sS'\xd1\x80\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9'
+p131
+I1
+sS'swipe'
+p132
+I1
+sS'apps'
+p133
+I2
+sS'system'
+p134
+I1
+sS'SAR'
+p135
+I1
+sS'anyone'
+p136
+I1
+sS'much'
+p137
+I1
+sS'OpenSource'
+p138
+I3
+sS'perfectly'
+p139
+I1
+sS'Create'
+p140
+I1
+sS'more'
+p141
+I4
+sS'Search'
+p142
+I1
+sS'Brasil'
+p143
+I1
+sS'Deutschland'
+p144
+I1
+sS'about'
+p145
+I1
+sS'Devices'
+p146
+I1
+sS'photos'
+p147
+I1
+sS'Switch'
+p148
+I2
+sS'imagery'
+p149
+I1
+sS'Learn'
+p150
+I1
+sS'than'
+p151
+I1
+sS'mascot'
+p152
+I1
+sS'has'
+p153
+I1
+sS'Love'
+p154
+I1
+sS'Powering'
+p155
+I1
+sS'Deutsch'
+p156
+I1
+sS'\xc2\xa9'
+p157
+I1
+sS'devices'
+p158
+I2
+sS'Lollipop'
+p159
+I1
+sS'Customised'
+p160
+I1
+sS'See'
+p161
+I1
+sS'functionwdsliwlwlwlpushgtmstart'
+p162
+I1
+sS'Hong'
+p163
+I1
+sS'powers'
+p164
+I1
+sS'M\xc3\xa9xico'
+p165
+I1
+sS'history'
+p166
+I1
+sS'Customise'
+p167
+I1
+sS'cookiePath'
+p168
+I1
+sS'stream'
+p169
+I1
+sS'explicit'
+p170
+I1
+sS'watches'
+p171
+I1
+sS'parsetags'
+p172
+I1
+sS'Blog'
+p173
+I1
+sS'Zealand'
+p174
+I1
+sS'Astrium'
+p175
+I1
+sS'Policy'
+p176
+I1
+sS'built'
+p177
+I1
+sS'TV'
+p178
+I4
+sS'make'
+p179
+I2
+sS'alerts'
+p180
+I1
+sS'43'
+p181
+I1
+sS'Bean'
+p182
+I1
+sS'green'
+p183
+I1
+sS'you'
+p184
+I5
+sS'More'
+p185
+I2
+sS'Androidifycomnbsp'
+p186
+I1
+sS'nownbsp'
+p187
+I1
+sS'DategetTimeeventgtmjsvar'
+p188
+I1
+sS'profile'
+p189
+I1
+sS'portugu\xc3\xaas'
+p190
+I1
+sS'favourite'
+p191
+I1
+sS'\xe4\xb8\xad\xe8\x8f\xaf\xe4\xba\xba\xe6\xb0\x91\xe5\x85\xb1\xe5\x92\x8c\xe5\x9c\x8b\xe9\xa6\x99\xe6\xb8\xaf\xe7\x89\xb9\xe5\x88\xa5\xe8\xa1\x8c\xe6\x94\xbf\xe5\x8d\x80'
+p192
+I1
+sS'M'
+p193
+I2
+sS'Jelly'
+p194
+I1
+sS'device'
+p195
+I1
+sS'androidinithome'
+p196
+I1
+sS'The'
+p197
+I1
+sS'friends'
+p198
+I1
+sS'recent'
+p199
+I1
+sS'billion'
+p200
+I1
+sS'\xe2\x80\x93'
+p201
+I2
+sS'Google'
+p202
+I4
+sS'phone'
+p203
+I1
+sS'Some'
+p204
+I1
+sS'Discover'
+p205
+I1
+sS'\xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd1\x8f'
+p206
+I1
+sS'One'
+p207
+I2
+sS'States'
+p208
+I1
+sS'switch'
+p209
+I1
+sS'Tablets'
+p210
+I3
+sS'clean'
+p211
+I2
+sS'SDK'
+p212
+I1
+sS'yours'
+p213
+I1
+sS'latest'
+p214
+I1
+s.

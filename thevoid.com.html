@@ -1,0 +1,413 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en" ng-app="TheVoid.App">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="At THE VOID you will walk into new dimensions and experience worlds without limits. The Future of Entertainment exploring with Virtual Reality.">
+    <meta name="keywords" content="virtual reality,park,vr,the void,dimensions,experiences,worlds,tracking,move,vec,entertainment,game,virtual entertainment center,utah,adventure,technology">
+
+    <title>The Vision of Infinite Dimensions | THE VOID</title>
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+    <link rel="stylesheet" id="ut-Lato-css" href="//fonts.googleapis.com/css?family=Lato%3A&amp;subset=latin&amp;ver=4.2.2" type="text/css" media="all">
+    
+<link href="/cassette.axd/stylesheet/926cf23efb2e328c5cbc927e0ca7fdb5c6395ee8/Styles/Home/Index.less" type="text/css" rel="stylesheet"/>
+<link href="/cassette.axd/stylesheet/6f94d2b18ae58686387c6fa5c23848a9b0b05af1/Styles/Shared" type="text/css" rel="stylesheet"/>
+
+    
+
+
+</head>
+<body ng-controller="PageCtrl" ng-class="context.bodyClass">
+    <header ng-controller="HeaderCtrl">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                
+                <button type="button" ng-click="toggleNavbar()" class="navbar-toggle collapsed" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/" title="THE VOID">
+                </a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse" ng-class="{in:showNavbar}">
+                <ul id="nav-menu" class="nav navbar-nav">
+                    <li ng-click="hideNavbar()"><a id="nav-reservations" href="/reservations"><span>Reservations</span><em>Beta</em></a></li>
+                    <li ng-click="hideNavbar()"><a href="/blog">Blog</a></li>
+                    <li ng-click="hideNavbar()"><a href="/store">Store</a></li>
+                    <li ng-click="hideNavbar()"><a href="/contact">Contact</a></li>
+                    <li ng-click="hideNavbar()"><a href="https://thevoid.has-jobs.com">Jobs</a></li>
+                    <li data-menuanchor="void-updates" ng-click="hideNavbar()"><a href="/#void-updates">Void Updates</a></li>
+                </ul>
+                <ul id="user-menu" class="nav navbar-nav navbar-right">
+        <li data-toggle="collapse" data-target=".in"><a href="/account">Sign In</a></li>
+</ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+</header>
+
+    <div id="page">
+        <validation-summary summary="context.validationSummary"></validation-summary>
+        
+
+
+<div id="home-page" class="row full-page-loading">
+    <section id="home-section" class="section">
+    <div id="video-still"></div>
+    <div id="video-player" data-property="{ videoURL : 'https://youtu.be/tqNdfKd2ZjY' , containment : 'body', showControls: false, autoPlay : true, loop : true, mute : true, vol: 0, startAt : 0, opacity : 1, gaTrack: false }">
+    </div>
+    <a id="watch-full-video" href="https://youtu.be/cML814JD09g" target="_blank">Watch the Full Video</a>
+</section>
+
+    <section id="the-vision-section" class="section">
+    <div>
+        <h1>The Vision</h1>
+        <p>We live in an age where endless entertainment options exist at our fingertips, yet we still have a real need to get out of the house and share new experiences with our friends and family. At  THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the Future of Entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way. Our Virtual Entertainment Centers (VECs) are coming to major cities throughout North and South America, Asia, Europe and Australia. More than watching a movie or playing a game … in THE VOID you will live an adventure.</p>
+    </div>
+</section>
+
+    <section id="the-tech-section" class="section">
+    <h1>The Tech</h1>
+    <div id="tech-hmd" class="slide" ng-controller="TechSlideCtrl">
+        <div class="slide-content">
+            <i></i>
+            <div class="tech-container" ng-class="{expand: seeMoreVisible}">
+                <div class="see-more-modal" ng-class="{open: seeMoreVisible}" click-outside="offSeeMore()">
+                    <h2><span>Rapture</span> HMD</h2>
+                    <a href="#" class="modal-close" ng-click="showSeeMore(false, $event)">X</a>
+                    <div class="tech-content"><p>Our Rapture HMD (Head Mounted Display) is designed to provide guests of THE VOID with the most believable virtual reality experience possible, exceeding that of similar VR devices expected to reach the home market later this year. &nbsp;<a href="#" class="see-more" ng-click="showSeeMore(true, $event)">More &gt;</a></p>
+<div class="see-more-content">
+	<ul>
+		<li>Dual High-Density Curved OLED Displays (1080P per-eye beginning resolution)</li>
+		<li>Quantum Dots (nearly doubling perceived resolution &amp; color range)</li>
+		<li>Custom Optics (our own proprietary lens-in-lens design)</li>
+		<li>High-Quality THX Headphones (featuring in-game binaural sound design)</li>
+		<li>Super-Gain Inline Microphones (for in-game communications)</li>
+		<li>Proprietary Global &amp; Head Tracking Sensors (running at 120HZ providing &nbsp;&nbsp;sub-millimeter accuracy).</li>
+	</ul>	
+	<p>In addition, to continue to provide the most immersive experience possible, research and development on our Rapture HMD will always be advancing.</p>
+<div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="tech-vest" class="slide" ng-controller="TechSlideCtrl">
+        <div class="slide-content">
+            <i></i>
+            <div class="tech-container" ng-class="{expand: seeMoreVisible}">
+                <div class="see-more-modal" ng-class="{open: seeMoreVisible}" click-outside="offSeeMore()">
+                    <h2><span>Rapture</span> Vest</h2>
+                    <a href="#" class="modal-close" ng-click="showSeeMore(false, $event)">X</a>
+                    <div class="tech-content">The companion Rapture Vest delivers lightning speed performance, 
+and smooth gameplay to the player, while our lightweight and 
+adjustable design allows them to enjoy their experience in comfort. 
+Environmental effects are felt from multiple points within our vest 
+using four types of haptic feedback. &nbsp;<a href="#" class="see-more" ng-click="showSeeMore(true, $event)">MORE &gt;</a><span class="see-more-content">Every bullet, laser, and creature 
+interaction can have its own specific hit location and feel. Our Rapture 
+Vest doesn’t simply vibrate, it gives every VR object that comes in 
+contact with it a life of it’s own.</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="tech-gloves" class="slide" ng-controller="TechSlideCtrl">
+        <div class="slide-content">
+            <i></i>
+            <div class="tech-container" ng-class="{expand: seeMoreVisible}">
+                <div class="see-more-modal" ng-class="{open: seeMoreVisible}" click-outside="offSeeMore()">
+                    <h2><span>Rapture</span> Gloves</h2>
+                    <a href="#" class="modal-close" ng-click="showSeeMore(false, $event)">X</a>
+                    <div class="tech-content">With our Rapture Gloves you will be able to reach out and physically 
+discover the virtual worlds around you. Seeing your hands while 
+interacting with virtual and physical objects in our dimensions allows 
+for an unprecedented level of immersion. See a sword on a wall, pick 
+it up and use it in the Virtual World. &nbsp;<a href="#" class="see-more" ng-click="showSeeMore(true, $event)">MORE &gt;</a><span class="see-more-content">See an elevator button, reach out 
+and push it. With the ability to manipulate physical real world objects, 
+cast spells, use superhuman powers and so much more, the world is 
+literally at your finger tips.</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <section id="the-centers-section" class="section">
+    <h1>The Centers</h1>
+    <div id="centers-home" class="slide">
+        <div class="slide-content">
+            <p>As you enter THE VOID you are crossing a threshold into new worlds. We establish an immersive entertainment experience the very moment you walk through our doors. The design of our entry will reflect the feeling that you have passed through both time and space, where ancient past meets distant future. Intriguing theming including incredible “Artifacts” collected from “THE VOID” will complete the sense of place, discovery and adventure.</p>
+            <p>Coming summer 2016 to Pleasant Grove, Utah</p>
+        </div>
+    </div>
+    <div id="centers-experiences" class="slide">
+        <div class="slide-content">
+            <h2>Experiences</h2>
+            <p>The Vision Of Infinite Dimensions (THE VOID) is exactly what our Virtual Entertainment Centers will offer. 
+Experience everything from Haunted Castles to Dinosaur Safaris to Futuristic Battlefields, and with our 
+competitive or cooperative multiplayer modes you can share these incredible experiences with family 
+and friends. With new Dimensions and updates being added quarterly, there will always be something 
+new to see at THE VOID.</p>
+        </div>
+    </div>
+    <div id="centers-gaming-pods" class="slide">
+        <div class="slide-content">
+            <h2>Gaming Pods</h2>
+            <p>While in THE VOID guests will interact with a variety of key elements in our designed physical stage 
+(VOID Game Pods). Physical sensations will include elevation changes, touching structures &amp; objects, 
+feeling vibrations, air pressure, cold &amp; heat, moisture, simulated liquids and smell. In addition our 
+technology allows us to create the illusion the player is exploring miles of terrain or incredibly tall 
+structures without ever leaving our game pod. The end result is a physical connection to the virtual 
+world and sense of exploration never before possible.</p>
+        </div>
+    </div>
+    <div id="centers-motion-simulators" class="slide">
+        <div class="slide-content">
+            <h2>Motion Simulators</h2>
+            <p>Partnering with leaders in the entertainment based simulator industry our proprietary custom motion simulators have a 
+two person capacity, are fully interactive and can perform 360 degree motion over 3 axis rotations (roll, pitch and yaw) as 
+well as lift. Unlike most typical motion simulators we will not use screen projection to display our visuals, instead utilizing 
+our Rapture HMD for an unprecedented level of immersion. Our simulators will feature adjustable and swappable control 
+devices providing for a variety of simulation experiences including: aircraft dogfights, ground transport, mech battles, 
+spaceship or submersible exploration and more. Be it a single or multiplayer experience the vehicle and environmental 
+options are endless.</p>
+        </div>
+    </div>
+</section>
+
+    <section id="the-reviews-section" class="section paralax-bg-overlay">
+    <h1>The Reviews</h1>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>I went to see The Void 'void of expectations' as to what the experience would be. &nbsp;When I put on the goggles and navigated the virtual/practical environment, I really felt as if I were in another world. &nbsp;The areas that simulated great heights really made me nervous and I was afraid of falling off the edge. &nbsp;The experience was truly surreal and fully immersive and something I am looking forward to seeing made available to the public asap.<em>"</em>
+            <cite>Dan Farr | Founder and Producer of Salt Lake Comic Con</cite>
+        </q>
+    </div>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>The quality of virtual reality is measured by a term called &quot;presence&quot;; a state of being in which the brain is convinced that what it is experiencing is real. The VOID, taking notes from decades of virtual reality research, maximizes presence inducing techniques through cutting edge customized vr hardware, software, wireless positional tracking/redirected walking, physical props, real world environmental effects, 3d sound and haptic feedback and beautiful computer rendered environments. I have never experienced this level of immersion. For the first time, despite my rational mind knowing I was safe, I couldn&#39;t bring myself to step off the edge of the virtual cliff! This is presence and I loved every second of it<em>"</em>
+            <cite>Chris Madsen | deeprifter</cite>
+        </q>
+    </div>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>The Void virtual reality training is an experience like no other. As a 21 year law enforcement veteran with 13 years of SWAT experience, I have seen many different types of training simulators. The Void’s technology was able to envelop me in a 3 dimensional environment that allowed me to move and interact with the environment all while experiencing stimuli to all five senses. This is the future of military and law enforcement training tools.<em>"</em>
+            <cite>Sgt. Jason Mudrock | President, Utah Tactical Officers Association</cite>
+        </q>
+    </div>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>The VOID is truly a singular achievement in immersive virtual reality. It represents the first instance of a technology which, in my sincere opinion, has successfully risen to the immense challenge of overcoming the complex creative and technical issues surrounding VR. I have no doubt that THE VOID is poised to irreversibly alter the future of immersive technology and entertainment.<em>"</em>
+            <cite>Amir Aziz Ghahary | M.A. Interactive Arts &amp; Technology</cite>
+        </q>
+    </div>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>I’ve been working in games and fantasy for nearly all of my adult life. I’ve watched down the years as myself and other writers of speculative fiction have dreamed of a virtual experience where the walls felt real, where the weapons were solid in our hands and where we felt the blows of our opponents. Today I experienced that dream made real at THE VOID.<em>"</em>
+            <cite>Tracy Hickman | New York Times &amp; International Best Selling Author</cite>
+        </q>
+    </div>
+    <div class="slide">
+        <q>
+            <em class="fa fa-quote-left"></em>Genuinely the coolest thing I&#39;ve ever done in my entire life. Everything about THE VOID felt second nature and I can&#39;t even explain how incredibly cool it was.&quot;<em>"</em>
+            <cite>Matt Orr | Lead Singer &amp; Song Writer / Alternative Band - RKDN</cite>
+        </q>
+    </div>
+</section>
+
+    <section id="partners-section" class="section">
+    <h1>Partners</h1>
+    <ul>
+        <li><i class="partners-evermore"></i></li>
+        <li><i class="partners-carbon-origins"></i></li>
+        <li><i class="partners-distant-focus"></i></li>
+        <li><i class="partners-xidax"></i></li>
+        <li><i class="partners-optimal-design"></i></li>
+        <li><i class="partners-unity"></i></li>
+    </ul>
+</section>
+
+    <section id="media-section" class="section">
+    <h1>Media</h1>
+    <div id="media-headlines">
+        <div class="slide">
+            <a class="active" href="http://www.cnbc.com/id/102691378" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Welcome to ‘The Matrix’? Theme park with virtual reality twist<em>"</em>
+                    <cite>- CNBC</cite>
+                </q>
+            </a>
+        </div>        
+        <div class="slide">
+            <a class="active" href="http://www.ksl.com/?sid=34660917&nid=1012&title=visiting-the-voids-alpha-test&s_cid=queue-22" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Visiting THE VOID&#39;s alpha test<em>"</em>
+                    <cite>- KSL</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a class="active" href="http://www.cnet.com/news/virtual-reality-theme-park-will-give-visitors-matrix-like-powers/" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Virtual reality theme park will give visitors &#39;Matrix&#39;-like powers<em>"</em>
+                    <cite>- CNET</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.washingtonpost.com/blogs/innovations/wp/2015/05/08/the-voids-creator-details-his-vision-for-unleashing-virtual-realitys-full-potential/" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>The Void’s creator details his vision for unleashing virtual reality’s full potential<em>"</em>
+                    <cite>- The Washington Post</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.nydailynews.com/news/national/watch-utah-company-showcases-enhanced-virtual-reality-park-article-1.2212406" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Utah company showcases enhanced virtual reality park<em>"</em>
+                    <cite>- NY Daily News</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.express.co.uk/life-style/science-technology/575633/VOID-Salt-Lake-City-VOID-Virtual-Reality-Theme-Park-Attack-Science-Fiction" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Guns, spaceships and DRAGONS – Welcome to the world&#39;s first Virtual Reality theme park<em>"</em>
+                    <cite>- Daily Express</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.mtv.com/news/2153128/void-virtual-reality-interview/" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Will This Virtual Reality Theme Park Replace Movie Theaters Someday?<em>"</em>
+                    <cite>- MTV News</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.roadtovr.com/the-void-is-a-vr-experience-which-fuses-physical-and-virtual-reality-environments/" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>‘The Void’ is a VR Experience which Fuses Physical and Virtual Reality Environments<em>"</em>
+                    <cite>- Road to VR</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.singaporenews.sg/global/guns-spaceships-and-dragons-welcome-to-the-worlds-first-virtual-reality-theme-park/" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Guns, spaceships and DRAGONS – Welcome to the world&#39;s first Virtual Reality theme park<em>"</em>
+                    <cite>- Singapore News</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.dailymail.co.uk/sciencetech/article-3072300/Do-dare-step-inside-virtual-reality-THEME-PARK-Void-merges-VR-technology-real-objects-create-world-s-holodeck.html" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Do you dare step inside the virtual reality THEME PARK? The Void merges VR technology with real objects to create the world&#39;s first &#39;holodeck&#39;<em>"</em>
+                    <cite>- DailyMail.com</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="http://www.kutv.com/news/features/top-stories/stories/Utah-entrepreneur-unveils-realistic-immersive-gaming-experience-128247.shtml#.VVJGm_lVhBc" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>Utah entrepreneur unveils realistic immersive gaming experience<em>"</em>
+                    <cite>- KUTV</cite>
+                </q>
+            </a>
+        </div>
+        <div class="slide">
+            <a href="https://www.youtube.com/watch?v=m8RnqPVdZ8k" target="_blank">
+                <q>
+                    <em class="fa fa-quote-left"></em>The Void is a VR amusement park<em>"</em>
+                    <cite>- Force Strategy Gaming</cite>
+                </q>
+            </a>
+        </div>
+    </div>
+
+    <ul id="media-links">
+        <li><a class="media-cnbc" href="http://www.cnbc.com/id/102691378" target="_blank"></a></li>
+        <li><a class="media-ksl" href="http://www.ksl.com/?sid=34660917&nid=1012&title=visiting-the-voids-alpha-test&s_cid=queue-22" target="_blank"></a></li>
+        <li><a class="media-cnet" href="http://www.cnet.com/news/virtual-reality-theme-park-will-give-visitors-matrix-like-powers/" target="_blank"></a></li>
+        <li><a class="media-washington-post" href="http://www.washingtonpost.com/blogs/innovations/wp/2015/05/08/the-voids-creator-details-his-vision-for-unleashing-virtual-realitys-full-potential/" target="_blank"></a></li>
+        <li><a class="media-ny-daily-news" href="http://www.nydailynews.com/news/national/watch-utah-company-showcases-enhanced-virtual-reality-park-article-1.2212406" target="_blank"></a></li>
+        <li><a class="media-daily-express" href="http://www.express.co.uk/life-style/science-technology/575633/VOID-Salt-Lake-City-VOID-Virtual-Reality-Theme-Park-Attack-Science-Fiction" target="_blank"></a></li>
+        <li><a class="media-mtv" href="http://www.mtv.com/news/2153128/void-virtual-reality-interview/" target="_blank"></a></li>
+        <li><a class="media-road-to-vr" href="http://www.roadtovr.com/the-void-is-a-vr-experience-which-fuses-physical-and-virtual-reality-environments/" target="_blank"></a></li>
+        <li><a class="media-singapore-news" href="http://www.singaporenews.sg/global/guns-spaceships-and-dragons-welcome-to-the-worlds-first-virtual-reality-theme-park/" target="_blank"></a></li>
+        <li><a class="media-daily-mail" href="http://www.dailymail.co.uk/sciencetech/article-3072300/Do-dare-step-inside-virtual-reality-THEME-PARK-Void-merges-VR-technology-real-objects-create-world-s-holodeck.html" target="_blank"></a></li>
+        <li><a class="media-kutv" href="http://www.kutv.com/news/features/top-stories/stories/Utah-entrepreneur-unveils-realistic-immersive-gaming-experience-128247.shtml#.VVJGm_lVhBc" target="_blank"></a></li>
+        <li><a class="media-force" href="https://www.youtube.com/watch?v=m8RnqPVdZ8k" target="_blank"></a></li>
+    </ul>
+</section>
+
+    <section id="void-updates-section" class="section paralax-bg-overlay" ng-controller="VoidUpdatesCtrl">
+    <h1>Void Updates</h1>
+    <p>Sign up for email updates</p>
+    <form ng-submit="subscribe($event)">
+        <ul id="void-updates-validation-summary" ng-show="errors" class="validation-summary ng-hide">
+            <li ng-repeat="error in errors">{{error}}</li>
+        </ul>        
+        <div id="void-updates-content" ng-hide="sent">
+            <div class="form-group">
+                <label for="updates-first-name">First Name:</label>
+                <input type="text" class="form-control" id="updates-first-name" ng-model="contact.firstName" placeholder="Your first name">
+            </div>
+            <div class="form-group">
+                <label for="updates-last-name">Last Name:</label>
+                <input type="text" class="form-control" id="updates-last-name" ng-model="contact.lastName" placeholder="Your last name">
+            </div>
+            <div class="form-group">
+                <label for="updates-email">Email Address:</label>
+                <input type="email" class="form-control" id="updates-email" ng-model="contact.email" placeholder="Your email address">
+            </div>
+            <button type="submit" class="btn btn-default">Sign Up</button>
+        </div>
+        <p id="void-updates-success" ng-show="sent" class="ng-hide">Thank you for subscribing to VOID updates.<br />You should receive an email shortly to confirm your subscription.</p>
+    </form>
+</section>
+
+</div>
+
+    </div>
+    <footer>
+    <ul id="social-links">
+        <li><a href="https://www.facebook.com/thevoidvr" target="_blank" class="facebook">Facebook</a></li>
+        <li><a href="https://twitter.com/voidvr" target="_blank" class="twitter">Twitter</a></li>
+        <li><a href="https://instagram.com/voidvr" target="_blank" class="instagram">Instagram</a></li>
+    </ul>
+</footer>
+
+    <div id="scripts">
+        
+<script src="/cassette.axd/script/5d0335b9c665f21dbb6fd95c214c01706140290a/Scripts/Lib" type="text/javascript"></script>
+<script src="/cassette.axd/script/1e664547c3de165193d25c578d92da048d85740e/Scripts/Shared" type="text/javascript"></script>
+<script src="/cassette.axd/script/5be33f97c180507c6872e370b6f8719588f82952/Scripts/Home/Index" type="text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=recaptcha_load&render=explicit" type="text/javascript"></script>
+
+        <pre id="ss">eyJyZUNhcHRjaGEiOnsic2l0ZUtleSI6IjZMY2ZNQUFUQUFBQUFOSWNPbTRFektoTXh0czI3SnA4ejhtUEY4VEMifSwiYXBpIjp7ImJhc2VVcmkiOiJodHRwczovL2FwaS50aGV2b2lkLmNvbSIsInRva2VuIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUlzSW5nMWRDSTZJa2hSUjFnek1HaFBiVU14UW5FMlRuUmliVkEzVWtsV0xVMXRVU0lzSW10cFpDSTZJa2hSUjFnek1HaFBiVU14UW5FMlRuUmliVkEzVWtsV0xVMXRVU0o5LmV5SmpiR2xsYm5SZmFXUWlPaUoyYjJsa2QyVmlZMnhwWlc1MElpd2lZMnhwWlc1MFgyRndjR3hwWTJGMGFXOXVYMmxrSWpvaU56WXhNemM0WlRjdE1UZzVOeTAwTWpVMkxUaGpPRE10WTJReU1qZGlOV0V5TWpFeUlpd2ljMk52Y0dVaU9pSjJiMmxrWVhCcElpd2lhWE56SWpvaWFIUjBjSE02THk5cFpHVnVkR2wwZVM1MGFHVjJiMmxrTG1OdmJTOXBaQ0lzSW1GMVpDSTZJbWgwZEhCek9pOHZhV1JsYm5ScGRIa3VkR2hsZG05cFpDNWpiMjB2YVdRdmNtVnpiM1Z5WTJWeklpd2laWGh3SWpveE5EUTNOVGt4TlRjeExDSnVZbVlpT2pFME5EYzFPRGM1TnpGOS5DeTdheGZjejRLMnN6d3djeTBELXAzQ3dzdDNkOW8xaDVieU05Qjh6dENWYjNxVFVTNHFoVHp0SUFuYWR2ejJfQjJhMTJRczl3ZkVTVmU4OTlfRlM2UGFQbEVTTml1TVJxTnJPb29VSi12N25GT1A4dFdrTXg1bHBwS0QybWd3bFp4eHFEakNFa2VTQTdxVEVVS29uMXdnNG01M2laV3pxNHotNjVxNEd5Rm1PaTduRXZwaXZleTVHM2xZTFJJeE52V1hKZWxhSmlvVkVWaFMxbFp0WWdxRTJIb2s1akpVUEJVd1k0UmpIRUZpN1VlZEhYaWZNS2QtX2NmajE0RTB2X2tURm5La1Boa1d1YVcweVZPbnRLb0xxOFoxTmEzdFU4X3hCOXFzaXhyM2JVazVZSVEtdkREY24yUzhIZXhZOFRBTlFWejJocWZqczFjUjEzVXJ2SVZ2MHEtc0ZPMVhsLWh5TVJySW1ob09fWXFUMWNGU1gyVV9uNUd1ZjdJN0JXYmxycjViQ1o4NmhuMGRGRGpvOC03Y3FwdUNJS1hiRm9ZaEFrT2lQU3pQTWh3Nkxma3B5RG5SdDdvUTdYaUJCeTZVbkJmelo5WVl4UjZtUEFDcnZyektfeUozaWVtbTNfbUtycXUyNHpYenA2M2xxZmpVQ2dhVHdQMVFYTzBUTHFjUkVQMHc0cy1WMm41eTVYaVk5eENmWWNKRC1MUVdTNmc4azRBQk85OUdqcmpiRENHN2hKU1FHYlR1RXJpNExscjNSbzJ6LUtLY3JGZk9DSmhIVVk2NEF1MmxINVBrRm84V3VBNld4UXZfR1JOUHg4UDI1S3RPdENwZGxYUnBBQklweFgxREpOT0tTWXpyNThrOGFIWjRCajJiWC12QnFDMHdVZGdMQnRFdyJ9LCJ2aWV3RGF0YSI6e319</pre>
+
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62613967-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    </div>
+</body>
+</html>
